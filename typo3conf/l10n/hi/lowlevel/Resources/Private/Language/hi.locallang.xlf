@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="hi" datatype="plaintext" original="messages" date="2018-11-29T05:08:44Z" product-name="lowlevel">
+		<header/>
+		<body>
+			<trans-unit id="advancedQuery" approved="yes">
+				<source>Advanced query</source>
+				<target state="translated">एडवांस्ड क्वेरी</target>
+			</trans-unit>
+			<trans-unit id="beingChecked" approved="yes">
+				<source>being checked...</source>
+				<target state="translated">जाँच की जा रही ...</target>
+			</trans-unit>
+			<trans-unit id="beUser" approved="yes">
+				<source>$GLOBALS['BE_USER']-&gt;uc (User Settings)</source>
+				<target state="translated">$GLOBALS['BE_USER']-&gt;uc (उपयोगकर्ता सेटिंग्स)</target>
+			</trans-unit>
+			<trans-unit id="beUserTsConfig">
+				<source>$GLOBALS['BE_USER']-&gt;getTSConfig() (User TSconfig)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="checkNow" approved="yes">
+				<source>Check now!</source>
+				<target state="translated">अब जांचें</target>
+			</trans-unit>
+			<trans-unit id="checkScript" approved="yes">
+				<source>You can also run the check as a shell script using CLI if the processing takes longer than the PHP max_execution_time allows.</source>
+				<target state="translated">अगर PHP max_execution_time में अनुमति दिए गए समय से ज्यादा प्रोसेसिंग समय लेता है तो आप CLI का उपयोग कर चेक को शैल स्क्रिप्ट की तरह रन कर सकते है।</target>
+			</trans-unit>
+			<trans-unit id="checkScript_check_description" approved="yes">
+				<source>To check the reference index use</source>
+				<target state="translated">संदर्भ अनुक्रमणिका का उपयोग जाँच करने के लिए करे</target>
+			</trans-unit>
+			<trans-unit id="checkScript_headline" approved="yes">
+				<source>Using the command line interface</source>
+				<target state="translated">कमांड लाइन इंटरफेस का उपयोग करे</target>
+			</trans-unit>
+			<trans-unit id="checkScript_moreDetails" approved="yes">
+				<source>For more details see</source>
+				<target state="translated">अधिक जानकारी के लिए देखें।</target>
+			</trans-unit>
+			<trans-unit id="checkScript_update_description" approved="yes">
+				<source>To update the reference index use</source>
+				<target state="translated">संदर्भ अनुक्रमणिका का उपयोग अपडेट करने के लिए करे</target>
+			</trans-unit>
+			<trans-unit id="clickToTestRefIndex" approved="yes">
+				<source>Click here to test reference index</source>
+				<target state="translated">संदर्भ अनुक्रमणिका का परीक्षण करने के लिए यहाँ क्लिक करें</target>
+			</trans-unit>
+			<trans-unit id="clickToUpdateRefIndex" approved="yes">
+				<source>Click here to update reference index</source>
+				<target state="translated">संदर्भ अनुक्रमणिका को अपडेट करने के लिए यहाँ क्लिक करें</target>
+			</trans-unit>
+			<trans-unit id="configuration" approved="yes">
+				<source>Configuration</source>
+				<target state="translated">कॉन्फ़िगरेशन</target>
+			</trans-unit>
+			<trans-unit id="copyPaste" approved="yes">
+				<source>(Now, copy/paste this value into the configuration file where you can set it. This is all you can do from here...)</source>
+				<target state="translated">(अब, जहाँ आप इसे सेट कर सके उस कॉन्फ़िगरेशन फाइल में इसे कॉपी/पेस्ट करे। यह सब आप यहां से कर सकते है ...)</target>
+			</trans-unit>
+			<trans-unit id="count" approved="yes">
+				<source>Count</source>
+				<target state="translated">गिनती</target>
+			</trans-unit>
+			<trans-unit id="countResults" approved="yes">
+				<source>Count results</source>
+				<target state="translated">परिणाम गिने</target>
+			</trans-unit>
+			<trans-unit id="cropLines" approved="yes">
+				<source>Crop lines</source>
+				<target state="translated">क्रॉप लाइन्स</target>
+			</trans-unit>
+			<trans-unit id="csvExport" approved="yes">
+				<source>CSV Export</source>
+				<target state="translated">CSV निर्यात</target>
+			</trans-unit>
+			<trans-unit id="databaseRelations" approved="yes">
+				<source>Database Relations</source>
+				<target state="translated">डाटाबेस संबंध</target>
+			</trans-unit>
+			<trans-unit id="deleted_pages" approved="yes">
+				<source>Marked-deleted pages</source>
+				<target state="translated">चिह्नित-डिलीट किये गए पेज</target>
+			</trans-unit>
+			<trans-unit id="directories" approved="yes">
+				<source>Dirs</source>
+				<target state="translated">Dirs</target>
+			</trans-unit>
+			<trans-unit id="directoriesTooDeep" approved="yes">
+				<source>ERROR: Directories deeper than the following number of levels</source>
+				<target state="translated">एरर: नीचे दिए गए स्तरों की संख्या से भी डायरेक्टरी गहरी है</target>
+			</trans-unit>
+			<trans-unit id="doktype" approved="yes">
+				<source>Document types</source>
+				<target state="translated">डॉक्यूमेंट का प्रकार</target>
+			</trans-unit>
+			<trans-unit id="doktype_value" approved="yes">
+				<source>Document types (value)</source>
+				<target state="translated">डॉक्यूमेंट का प्रकार (मूल्य)</target>
+			</trans-unit>
+			<trans-unit id="dontUseOrigValues" approved="yes">
+				<source>Don't use original values in brackets as prefix for labelled results</source>
+				<target state="translated">लेबल परिणामों के लिए मूल वैल्यू का ब्रैकेट्स में प्रीफिक्स के रूप में उपयोग न करे</target>
+			</trans-unit>
+			<trans-unit id="enterRegexPattern" approved="yes">
+				<source>Enter regex pattern</source>
+				<target state="translated">regex पैटर्न दर्ज करे</target>
+			</trans-unit>
+			<trans-unit id="enterSearchPhrase" approved="no">
+				<source>Enter search phrase</source>
+				<target state="needs-translation">सर्च करने का वाक्य दर्ज करें:</target>
+			</trans-unit>
+			<trans-unit id="explainQuery" approved="yes">
+				<source>Explain query</source>
+				<target state="translated">क्वेरी समझाओ</target>
+			</trans-unit>
+			<trans-unit id="files" approved="yes">
+				<source>Files</source>
+				<target state="translated">फ़ाइलें</target>
+			</trans-unit>
+			<trans-unit id="filesearch" approved="yes">
+				<source>Search all filenames for pattern</source>
+				<target state="translated">पैटर्न के लिए सभी फ़ाइल नाम को सर्च करें</target>
+			</trans-unit>
+			<trans-unit id="filesearch_description" approved="no">
+				<source>Will search recursively for filenames inside sub directories of the public web folder (PublicPath) matching a certain regex pattern.</source>
+				<target state="needs-translation">एक निश्चित regex पैटर्न से मेल खाते PATH_site (वेबसाइट पथ के सब-डायरेक्टरी) में फ़ाइल नाम के लिए बारी बारी से सर्च करेंगे।</target>
+			</trans-unit>
+			<trans-unit id="files_many_ref" approved="yes">
+				<source>Files referenced from more than one record</source>
+				<target state="translated">फ़ाइलें एक से अधिक रिकॉर्ड से संदर्भित है</target>
+			</trans-unit>
+			<trans-unit id="files_no_file" approved="yes">
+				<source>Missing files</source>
+				<target state="translated">अनुपस्थित फाइलें</target>
+			</trans-unit>
+			<trans-unit id="files_no_ref" approved="yes">
+				<source>Files with no references at all (delete them!)</source>
+				<target state="translated">कोई भी संदर्भ के बिना फाइल (उन्हें डिलीट करे!)</target>
+			</trans-unit>
+			<trans-unit id="findFilename" approved="yes">
+				<source>Find filename</source>
+				<target state="translated">फ़ाइल का नाम खोजें</target>
+			</trans-unit>
+			<trans-unit id="fixLostRecord" approved="yes">
+				<source>Click to move this lost record to rootlevel (pid=0)</source>
+				<target state="translated">इस खो गए रिकॉर्ड को रुट लेवल पर पहुँचने के लिए यहाँ क्लिक करे (pid=0)</target>
+			</trans-unit>
+			<trans-unit id="fullSearch" approved="yes">
+				<source>Full search</source>
+				<target state="translated">पूर्ण सर्च</target>
+			</trans-unit>
+			<trans-unit id="group_db" approved="yes">
+				<source>Group fields</source>
+				<target state="translated">समूह फ़ील्ड्स</target>
+			</trans-unit>
+			<trans-unit id="hidden_pages" approved="yes">
+				<source>Hidden pages</source>
+				<target state="translated">छिपे हुए पेज</target>
+			</trans-unit>
+			<trans-unit id="httpMiddlewareStacks">
+				<source>HTTP Middlewares (PSR-15)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="isMissing" approved="yes">
+				<source>is missing!</source>
+				<target state="translated">लापता है!</target>
+			</trans-unit>
+			<trans-unit id="label" approved="yes">
+				<source>Label</source>
+				<target state="translated">लेबल</target>
+			</trans-unit>
+			<trans-unit id="loadedExt" approved="yes">
+				<source>$GLOBALS['TYPO3_LOADED_EXT'] (Loaded Extensions)</source>
+				<target state="translated">$GLOBALS['TYPO3_LOADED_EXT'] (लोडेड एक्सटेंशन्स)</target>
+			</trans-unit>
+			<trans-unit id="manageRefIndex" approved="yes">
+				<source>Manage Reference Index</source>
+				<target state="translated">संदर्भ अनुक्रमाणिका का संचालन करे</target>
+			</trans-unit>
+			<trans-unit id="matchingFiles" approved="yes">
+				<source>Matching files</source>
+				<target state="translated">मिलती जुलती फाइल्स</target>
+			</trans-unit>
+			<trans-unit id="menuTitle" approved="yes">
+				<source>Overview</source>
+				<target state="translated">ओवरव्यू</target>
+			</trans-unit>
+			<trans-unit id="no_files_found" approved="yes">
+				<source>No files found.</source>
+				<target state="translated">कोई फ़ाइलें नहीं मिलीं।</target>
+			</trans-unit>
+			<trans-unit id="notChecked" approved="yes">
+				<source>not checked.</source>
+				<target state="translated">नहीं जांचा गया।</target>
+			</trans-unit>
+			<trans-unit id="pages" approved="yes">
+				<source>Pages</source>
+				<target state="translated">पेज</target>
+			</trans-unit>
+			<trans-unit id="pagesTypes">
+				<source>$GLOBALS['PAGES_TYPES'] (Table permissions by page type)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pattern" approved="yes">
+				<source>Pattern</source>
+				<target state="translated">पैटर्न</target>
+			</trans-unit>
+			<trans-unit id="rawSearch" approved="yes">
+				<source>Raw search in all fields</source>
+				<target state="translated">सभी फ़ील्ड्स में रॉ सर्च</target>
+			</trans-unit>
+			<trans-unit id="records" approved="yes">
+				<source>Records Statistics</source>
+				<target state="translated">सांख्यिकी रिकार्ड</target>
+			</trans-unit>
+			<trans-unit id="records_description" approved="yes">
+				<source>This shows some statistics for the records in the database. This runs through the entire page-tree and therefore it will also load the server heavily!</source>
+				<target state="translated">यह डेटाबेस में रिकॉर्ड के लिए कुछ आंकड़ों को दिखाता है। यह पुरे पेज ट्री से रन होकर सर्वर में भी लोड होगा!</target>
+			</trans-unit>
+			<trans-unit id="recordStatistics" approved="yes">
+				<source>Record Statistics</source>
+				<target state="translated">सांख्यिकी रिकार्ड</target>
+			</trans-unit>
+			<trans-unit id="referencedFrom" approved="yes">
+				<source>Referenced from</source>
+				<target state="translated">से संदर्भित</target>
+			</trans-unit>
+			<trans-unit id="referenceIndex_buttonCheck" approved="yes">
+				<source>Check reference index</source>
+				<target state="translated">संदर्भ अनुक्रमणिका जांचे</target>
+			</trans-unit>
+			<trans-unit id="referenceIndex_buttonUpdate" approved="yes">
+				<source>Update reference index</source>
+				<target state="translated">संदर्भ अनुक्रमणिका अपडेट करे</target>
+			</trans-unit>
+			<trans-unit id="referenceIndex_description" approved="yes">
+				<source>TYPO3's reference index keeps track of the relations between records. As it can happen that the reference index contains outdated values, you can check and update it here.</source>
+				<target state="translated">टाइपो3 के संदर्भ अनुक्रमणिका रिकॉर्ड के बीच संबंधों का ट्रैक रखता है। यह भी हो सकता है कि संदर्भ अनुक्रमणिका में आउटडेटेड वैल्यू हो, आप यहाँ पर जांच और अपडेट कर सकते है।</target>
+			</trans-unit>
+			<trans-unit id="references" approved="yes">
+				<source>references</source>
+				<target state="translated">संदर्भ</target>
+			</trans-unit>
+			<trans-unit id="refindex" approved="yes">
+				<source>Check and update global reference index</source>
+				<target state="translated">ग्लोबल संदर्भ अनुक्रमणिका अपडेट और चेक करे</target>
+			</trans-unit>
+			<trans-unit id="refindex_description" approved="yes">
+				<source>Allows you to maintain the reference index kept by TYPO3.</source>
+				<target state="translated">आपको टाइपो3 द्वारा रखी गई संदर्भ अनुक्रमणिका को बनाए रखने की अनुमति देता है।</target>
+			</trans-unit>
+			<trans-unit id="relations" approved="yes">
+				<source>Relations</source>
+				<target state="translated">संबंध</target>
+			</trans-unit>
+			<trans-unit id="relations_description" approved="no">
+				<source>This will analyze the content of the tables and check if there are 'empty' relations between records or if files are missing from their expected position.</source>
+				<target state="needs-translation">अगर वहाँ रिकॉर्ड के बिच 'खाली' सबंध है या फाइल उसकी उम्मीद की गई जगह से लापता है तो यह टेबल के कंटेंट का विश्लेषण और जांच करेगा।</target>
+			</trans-unit>
+			<trans-unit id="result" approved="yes">
+				<source>Result</source>
+				<target state="translated">परिणाम</target>
+			</trans-unit>
+			<trans-unit id="routes" approved="yes">
+				<source>Backend Routes</source>
+				<target state="translated">बैकएण्ड मार्गों</target>
+			</trans-unit>
+			<trans-unit id="search" approved="yes">
+				<source>Search</source>
+				<target state="translated">सर्च</target>
+			</trans-unit>
+			<trans-unit id="searchButton" approved="yes">
+				<source>Search</source>
+				<target state="translated">सर्च</target>
+			</trans-unit>
+			<trans-unit id="search_description" approved="yes">
+				<source>This searches through all database tables and records for a text string.</source>
+				<target state="translated">यह सभी डेटाबेस टेबल और रिकॉर्ड में से टेक्स्ट-string के लिए सर्च करता है।</target>
+			</trans-unit>
+			<trans-unit id="searchingForFilenames" approved="yes">
+				<source>Searching for filenames</source>
+				<target state="translated">फ़ाइल नाम के लिए सर्च कर रहा है</target>
+			</trans-unit>
+			<trans-unit id="searchOptions" approved="yes">
+				<source>Search options</source>
+				<target state="translated">सर्च विकल्प</target>
+			</trans-unit>
+			<trans-unit id="search_whole_database" approved="yes">
+				<source>Search whole Database</source>
+				<target state="translated">पूरा डेटाबेस सर्च करें</target>
+			</trans-unit>
+			<trans-unit id="select_db" approved="yes">
+				<source>Select fields</source>
+				<target state="translated">फ़ील्ड्स चुने</target>
+			</trans-unit>
+			<trans-unit id="selectRecords" approved="yes">
+				<source>Select records</source>
+				<target state="translated">रिकॉर्ड चुने</target>
+			</trans-unit>
+			<trans-unit id="showDeleted" approved="yes">
+				<source>Show even deleted entries (with undelete buttons)</source>
+				<target state="translated">डिलीटेड एंट्री को भी दिखाए ( अनडीलेटेड बटन के साथ)</target>
+			</trans-unit>
+			<trans-unit id="showSQL" approved="yes">
+				<source>Show SQL parts</source>
+				<target state="translated">SQL भाग दिखाएँ</target>
+			</trans-unit>
+			<trans-unit id="siteConfiguration">
+				<source>Site Configuration</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sortOptions" approved="yes">
+				<source>Sort selectbox-options for relations by label and not by value</source>
+				<target state="translated">सबंध के लिए सेलेक्टबॉक्स-विकल्प को वैल्यू के द्वारा नहीं और लेबल के द्वारा सॉर्ट करे</target>
+			</trans-unit>
+			<trans-unit id="t3services" approved="yes">
+				<source>$GLOBALS['T3_SERVICES'] (Registered Services)</source>
+				<target state="translated">$GLOBALS['T3_SERVICES'] (रजिस्टर्ड सेवाए)</target>
+			</trans-unit>
+			<trans-unit id="tablename" approved="yes">
+				<source>Table name</source>
+				<target state="translated">टेबल का नाम</target>
+			</trans-unit>
+			<trans-unit id="tables" approved="yes">
+				<source>Tables</source>
+				<target state="translated">टेबल्स</target>
+			</trans-unit>
+			<trans-unit id="tbemodules" approved="yes">
+				<source>$GLOBALS['TBE_MODULES'] (BE Modules)</source>
+				<target state="translated">$GLOBALS['TBE_MODULES'] (BE मॉडल्स)</target>
+			</trans-unit>
+			<trans-unit id="tbemodulesext" approved="yes">
+				<source>$GLOBALS['TBE_MODULES_EXT'] (BE Modules Extensions)</source>
+				<target state="translated">$GLOBALS['TBE_MODULES_EXT'] (BE मॉडल्स एक्सटेंशन्स)</target>
+			</trans-unit>
+			<trans-unit id="tbeStyles" approved="yes">
+				<source>$GLOBALS['TBE_STYLES'] (Skinning Styles)</source>
+				<target state="translated">$GLOBALS['TBE_STYLES'] (स्किन्निंग स्टाइल्स)</target>
+			</trans-unit>
+			<trans-unit id="tca" approved="yes">
+				<source>$GLOBALS['TCA'] (Table configuration array)</source>
+				<target state="translated">$GLOBALS['TCA'] (टेबल कॉन्फ़िगरेशन ऐरे)</target>
+			</trans-unit>
+			<trans-unit id="tcaDescr" approved="yes">
+				<source>$GLOBALS['TCA_DESCR'] (Table Help Description)</source>
+				<target state="translated">$GLOBALS['TCA_DESCR'] (टेबल सहायता वर्णन)</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Database integrity check</source>
+				<target state="translated">डेटाबेस इंटीग्रिटी की जांच</target>
+			</trans-unit>
+			<trans-unit id="total_lost" approved="yes">
+				<source>Records total / lost</source>
+				<target state="translated">कुल/लॉस्ट रिकॉर्ड</target>
+			</trans-unit>
+			<trans-unit id="total_pages" approved="no">
+				<source>Total number of default language pages</source>
+				<target state="needs-translation">पेज की कुल सांख्य</target>
+			</trans-unit>
+			<trans-unit id="totalPageTree" approved="yes">
+				<source>Total Page Tree</source>
+				<target state="translated">कुल पेज ट्री</target>
+			</trans-unit>
+			<trans-unit id="translated_pages">
+				<source>Total number of translated pages</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tree" approved="yes">
+				<source>The Page Tree</source>
+				<target state="translated">पेज ट्री</target>
+			</trans-unit>
+			<trans-unit id="tree_description" approved="yes">
+				<source>This shows all pages in the system in one large tree. Beware that this will probably result in a very long document which will also take some time for the server to compute!</source>
+				<target state="translated">यह सिस्टम में सभी पेज को एक बड़ी ट्री में दिखता है। सावधान रहे कि इसका परिणाम एक बहुत बड़ा डॉक्यूमेंट होगा जो सर्वर पर से कंप्यूटर के लिए कुछ समय भी लेगा!</target>
+			</trans-unit>
+			<trans-unit id="typo3ConfVars" approved="yes">
+				<source>$GLOBALS['TYPO3_CONF_VARS'] (Global Configuration)</source>
+				<target state="translated">$GLOBALS['TYPO3_CONF_VARS'] (ग्लोबल कॉन्फ़िगरेशन)</target>
+			</trans-unit>
+			<trans-unit id="updateNow" approved="yes">
+				<source>Update now!</source>
+				<target state="translated">अभी अपडेट करें!</target>
+			</trans-unit>
+			<trans-unit id="updateRefIndex" approved="yes">
+				<source>Update reference index</source>
+				<target state="translated">संदर्भ अनुक्रमणिका अपडेट करे</target>
+			</trans-unit>
+			<trans-unit id="useFormattedStrings" approved="yes">
+				<source>Use formatted strings, labels and dates instead of original values for results</source>
+				<target state="translated">परिणाम के लिए मूल वैल्यू की जगह उपयोगकर्ता द्वारा स्वरूपित strings, लेबल्स और तारीखे उपयोग करे</target>
+			</trans-unit>
+			<trans-unit id="useRegExp" approved="yes">
+				<source>Use regular expression (phrase is surrounded by slashes automatically)</source>
+				<target state="translated">नियमित एक्सप्रेशन का उपयोग करें ( वाक्य स्लैश द्वारा स्वचालित रूप से घिरा हुआ है )</target>
+			</trans-unit>
+			<trans-unit id="usersettings" approved="yes">
+				<source>$GLOBALS['TYPO3_USER_SETTINGS'] (User Settings Configuration)</source>
+				<target state="translated">$GLOBALS['TYPO3_USER_SETTINGS'] (उपयोगकर्ता सेटिंग्स कॉन्फ़िगरेशन)</target>
+			</trans-unit>
+			<trans-unit id="variable" approved="no">
+				<source>Variable</source>
+				<target state="needs-translation">वेरिएबलः</target>
+			</trans-unit>
+			<trans-unit id="writeMessage" approved="yes">
+				<source>Following line was added to configuration file (%s): %s%s</source>
+				<target state="translated">नीचे दी गई लाइन कॉन्फ़िगरेशन(%s) फाइल में जोड़ी गई है:%s%s</target>
+			</trans-unit>
+			<trans-unit id="writeMessageFailed" approved="yes">
+				<source>Write to configuration file failed (%s)!</source>
+				<target state="translated">कॉन्फ़िगरेशन फाइल में लिखना असफल रहा (%s)!</target>
+			</trans-unit>
+			<trans-unit id="writeValue" approved="yes">
+				<source>Write value to configuration file</source>
+				<target state="translated">कॉन्फ़िगरेशन फाइल में वैल्यू लिखे</target>
+			</trans-unit>
+			<trans-unit id="xmlExport" approved="yes">
+				<source>XML Export</source>
+				<target state="translated">XML निर्यात</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

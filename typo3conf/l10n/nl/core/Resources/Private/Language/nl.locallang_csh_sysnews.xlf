@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="nl" datatype="plaintext" original="messages" date="2018-11-29T01:13:21Z" product-name="core">
+		<header/>
+		<body>
+			<trans-unit id="content.description" approved="yes">
+				<source>The news content to let editors know what's coming up. HTML is disabled, however, you can use line breaks.</source>
+				<target state="translated">De inhoud van het bericht om redacteuren te laten weten wat er gaat gebeuren. HTML is uitgeschakeld, maar regeleindes kunnen gebruikt worden.</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>System news are shown at the TYPO3 login screen, allowing admins to inform editors about upcoming system maintenance and similar events.</source>
+				<target state="translated">Systeemberichten worden op het TYPO3 aanmeldscherm getoond, waardoor beheerders redacteuren op de hoogte kunnen houden van onderhoudsmomenten en dergelijke.</target>
+			</trans-unit>
+			<trans-unit id="hidden.description" approved="yes">
+				<source>This option will hide the news from showing up at the login screen.</source>
+				<target state="translated">Deze optie zorgt ervoor dat het nieuws niet getoond wordt in het aanmeldscherm.</target>
+			</trans-unit>
+			<trans-unit id="title.description" approved="yes">
+				<source>Enter the title of the news.</source>
+				<target state="translated">Titel van het nieuws.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

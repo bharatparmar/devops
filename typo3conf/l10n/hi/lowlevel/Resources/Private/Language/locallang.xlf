@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:34Z" product-name="lowlevel" target-language="hi">
+    <header/>
+    <body>
+      <trans-unit id="configuration" xml:space="preserve" approved="yes">
+        <source>Configuration</source>
+      <target state="translated">कॉन्फ़िगरेशन, विन्यास</target></trans-unit>
+      <trans-unit id="typo3ConfVars" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TYPO3_CONF_VARS'] (Global Configuration)</source>
+      <target state="translated">$GLOBALS['TYPO3_CONF_VARS'] (ग्लोबल कॉन्फ़िगरेशन)</target></trans-unit>
+      <trans-unit id="tca" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TCA'] (Table configuration array)</source>
+      <target state="translated">$GLOBALS['TCA'] (टेबल कॉन्फ़िगरेशन ऐरे)</target></trans-unit>
+      <trans-unit id="tcaDescr" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TCA_DESCR'] (Table Help Description)</source>
+      <target state="translated">$GLOBALS['TCA_DESCR'] (टेबल सहायता वर्णन)</target></trans-unit>
+      <trans-unit id="loadedExt" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TYPO3_LOADED_EXT'] (Loaded Extensions)</source>
+      <target state="translated">$GLOBALS['TYPO3_LOADED_EXT'] (लोडेड एक्सटेंशन्स)</target></trans-unit>
+      <trans-unit id="tbeStyles" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TBE_STYLES'] (Skinning Styles)</source>
+      <target state="translated">$GLOBALS['TBE_STYLES'] (स्किन्निंग स्टाइल्स)</target></trans-unit>
+      <trans-unit id="beUser" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['BE_USER']-&gt;uc (User Settings)</source>
+      <target state="translated">$GLOBALS['BE_USER']-&gt;uc (उपयोगकर्ता सेटिंग)</target></trans-unit>
+      <trans-unit id="usersettings" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TYPO3_USER_SETTINGS'] (User Settings Configuration)</source>
+      <target state="translated">$GLOBALS['TYPO3_USER_SETTINGS'] (उपयोगकर्ता सेटिंग कॉन्फ़िगरेशन)</target></trans-unit>
+      <trans-unit id="t3services" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['T3_SERVICES'] (Registered Services)</source>
+      <target state="translated">$GLOBALS['T3_SERVICES'] (दर्ज कराई गई सेवाएं)</target></trans-unit>
+      <trans-unit id="tbemodulesext" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TBE_MODULES_EXT'] (BE Modules Extensions)</source>
+      <target state="translated">$GLOBALS['TBE_MODULES_EXT'] (BE मॉड्यूल एक्सटेंशन)</target></trans-unit>
+      <trans-unit id="tbemodules" xml:space="preserve" approved="yes">
+        <source>$GLOBALS['TBE_MODULES'] (BE Modules)</source>
+      <target state="translated">$GLOBALS['TBE_MODULES'] (BE मॉड्यूल)</target></trans-unit>
+      <trans-unit id="cropLines" xml:space="preserve" approved="yes">
+        <source>Crop lines</source>
+      <target state="translated">क्रॉप लाइन्स</target></trans-unit>
+      <trans-unit id="variable" xml:space="preserve" approved="yes">
+        <source>Variable:</source>
+      <target state="translated">वेरिएबलः</target></trans-unit>
+      <trans-unit id="copyPaste" xml:space="preserve" approved="yes">
+        <source>(Now, copy/paste this value into the configuration file where you can set it. This is all you can do from here...)</source>
+      <target state="translated">(अब, जहाँ आप इसे सेट कर सके उस कॉन्फ़िगरेशन फाइल में इसे कॉपी/पेस्ट करे। यह सब आप यहां से कर सकते है ...)</target></trans-unit>
+      <trans-unit id="enterSearchPhrase" xml:space="preserve" approved="yes">
+        <source>Enter search phrase:</source>
+      <target state="translated">सर्च करने का वाक्य दर्ज करें:</target></trans-unit>
+      <trans-unit id="search" xml:space="preserve" approved="yes">
+        <source>Search</source>
+      <target state="translated">सर्च</target></trans-unit>
+      <trans-unit id="useRegExp" xml:space="preserve" approved="yes">
+        <source>Use regular expression</source>
+      <target state="translated">नियमित एक्सप्रेशन का उपयोग करें</target></trans-unit>
+      <trans-unit id="writeValue" xml:space="preserve" approved="yes">
+        <source>Write value to configuration file</source>
+      <target state="translated">कॉन्फ़िगरेशन फाइल में वैल्यू लिखे</target></trans-unit>
+      <trans-unit id="writeMessage" xml:space="preserve" approved="yes">
+        <source>Following line was added to configuration file (%s): %s%s</source>
+      <target state="translated">नीचे दी गई लाइन कॉन्फ़िगरेशन फाइल(%s) में जोड़ी गई है:%s%s</target></trans-unit>
+      <trans-unit id="writeMessageFailed" xml:space="preserve" approved="yes">
+        <source>Write to configuration file failed (%s)!</source>
+      <target state="translated">कॉन्फ़िगरेशन फाइल में लिखना असफल रहा (%s)!</target></trans-unit>
+    </body>
+  </file>
+</xliff>

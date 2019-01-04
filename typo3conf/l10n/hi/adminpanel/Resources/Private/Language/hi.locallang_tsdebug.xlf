@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="hi" datatype="plaintext" original="messages" date="2018-11-29T00:03:36Z" product-name="adminpanel">
+		<header/>
+		<body>
+			<trans-unit id="displayContent">
+				<source>Display content</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="displayMessages">
+				<source>Display messages</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="displayTimes">
+				<source>Display all times</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="forceTemplateParsing">
+				<source>Force TS Rendering</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="module.label">
+				<source>TypoScript</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="module.shortinfo">
+				<source>(%s Messages)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sub.waterfall.label">
+				<source>TS Tree</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="trackContentRendering">
+				<source>Track content rendering</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="treeDisplay">
+				<source>Tree display</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

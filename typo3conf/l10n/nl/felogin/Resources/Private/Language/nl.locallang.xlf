@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="nl" datatype="plaintext" original="messages" date="2018-11-29T01:57:51Z" product-name="felogin">
+		<header/>
+		<body>
+			<trans-unit id="change_password" approved="yes">
+				<source>Change your password</source>
+				<target state="translated">Verander uw wachtwoord</target>
+			</trans-unit>
+			<trans-unit id="cookie_warning" approved="yes">
+				<source>Warning: There is a possibility that cookies are not enabled in your web browser! If your login disappears on your next click that is the case and you should enable cookies (or accept cookies from this website) immediately!</source>
+				<target state="translated">Waarschuwing: Het is mogelijk dat uw browser geen "cookies" accepteert. Als uw aanmelding na doorklikken weer is verdwenen, zal dit vrijwel zeker het geval zijn. Om dit te herstellen moet u de mogelijkheid tot het gebruiken van cookies in uw browser activeren of voor deze site accepteren!</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_done_message" approved="yes">
+				<source>Your password has been saved. You can now login with your new password.</source>
+				<target state="translated">Uw wachtwoord is opgeslagen. U kunt nu inloggen met uw nieuwe wachtwoord.</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_header" approved="yes">
+				<source>Change your password</source>
+				<target state="translated">Wachtwoord veranderen</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_message" approved="yes">
+				<source>Please enter your new password twice. Password needs a minimum length of %s chars.</source>
+				<target state="translated">Nieuw wachtwoord twee keer invoeren. Wachtwoord moet minimaal %s karakters bevatten.</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_nolinkprefix_message" approved="yes">
+				<source>Error: there is no prefix for the link. Please set one of the following in your typoscript template: plugin.tx_felogin_pi1.feloginBaseURL = http://yourdomain/, config.baseURL = http://yourdomain/, config.absRefPrefix = /</source>
+				<target state="translated">Fout: er is geen prefix voor de link. Voer a.u.b. een van de volgende voorbeelden in in het TypoScript-sjabloon: plugin.tx_felogin_pi1.feloginBaseURL = http://yourdomain/, config.baseURL = http://yourdomain/, config.absRefPrefix = http://yourdomain/</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_notequal_message" approved="yes">
+				<source>The passwords are not equal, please enter your new password twice. Password needs a minimum length of %s chars.</source>
+				<target state="translated">De ingevoerde wachtwoorden zijn niet gelijk. Voer het nieuwe wachtwoord twee keer in. Het wachtwoord moet minimaal %s karakters bevatten.</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_notvalid_message" approved="yes">
+				<source>The link you clicked is not valid. Please repeat the forgot password procedure.</source>
+				<target state="translated">De aangeklikte link werkt niet. Herhaal a.u.b. de procedure 'wachtwoord vergeten'.</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_tooshort_message" approved="yes">
+				<source>The password length is too short. Please enter your new password twice. Password needs a minimum length of %s chars.</source>
+				<target state="translated">Uw wachtwoord bevat niet genoeg karakters. Voer het nieuwe wachtwoord twee keer in. Het wachtwoord moet minimaal %s karakters bevatten.</target>
+			</trans-unit>
+			<trans-unit id="ll_enter_your_data" approved="yes">
+				<source>Username or email address</source>
+				<target state="translated">Gebruikersnaam of e-mailadres</target>
+			</trans-unit>
+			<trans-unit id="ll_error_header" approved="yes">
+				<source>Login failure</source>
+				<target state="translated">Loginfout</target>
+			</trans-unit>
+			<trans-unit id="ll_error_message" xml:space="preserve" approved="yes">
+				<source>An error occurred during login. Most likely you didn't enter the username or password correctly.
+Be certain that you enter them precisely as they are, including upper/lower case.
+Another possibility is that cookies might be disabled in your web browser.</source>
+			<target state="translated">Er is een fout opgetreden bij het inloggen. Waarschijnlijk heeft u uw gebruikersnaam of wachtwoord niet goed ingevoerd. 
+Zorg ervoor dat u deze precies zo invoert als ze zijn, lettend op het verschil tussen hoofdletters/kleine letters.
+Ook kan het zijn dat cookies uitstaan in uw browser.</target></trans-unit>
+			<trans-unit id="ll_forgot_email_nopassword" xml:space="preserve" approved="yes">
+				<source>Your password
+Hi %s
+
+We couldn't find a username for this email address and so cannot send the password to you. Probably you misspelled the email address (upper/lower case makes a difference) or maybe you even didn't register yet?</source>
+			<target state="translated">Uw wachtwoord
+Hallo %s
+
+We konden geen gebruikersnaam vinden met dit e-mailadres en kunnen u het wachtwoord niet toezenden. Waarschijnlijk heeft een een typefout gemaakt in het e-mailadres (hoofdletters en kleine letters maken verschil) of misschien bent u nog niet geregistreerd?</target></trans-unit>
+			<trans-unit id="ll_forgot_email_password" xml:space="preserve" approved="yes">
+				<source>Your password
+Hi %s
+
+Your username is "%s"
+Your password is "%s"</source>
+			<target state="translated">Uw wachtwoord
+Hallo %s
+
+Uw gebruikersnaam is "%s"
+Uw wachtwoord is "%s"</target></trans-unit>
+			<trans-unit id="ll_forgot_header" approved="yes">
+				<source>Forgot your password?</source>
+				<target state="translated">Wachtwoord vergeten?</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_header_backToLogin" approved="yes">
+				<source>Return to login form</source>
+				<target state="translated">Terug naar het inlogformulier</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_message" approved="yes">
+				<source>Please enter the email address by which you registered your user account. Then press "Send password" and your password will immediately be emailed to you. Make sure to spell your email address correctly.</source>
+				<target state="translated">Geef a.u.b. het e-mailadres op waarmee u dit gebruikersaccount heeft geregistreerd. Klik vervolgens op "Wachtwoord verzenden" en u krijgt uw wachtwoord onmiddellijk toegestuurd. Zorg ervoor dat u geen typefouten maakt in het e-mailadres.</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_message_emailSent" approved="yes">
+				<source>Your password has now been sent to the email address %s</source>
+				<target state="translated">Uw wachtwoord is verstuurd naar het e-mailadres %s</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_reset_message" approved="yes">
+				<source>Please enter your username or email address. Instructions for resetting the password will be immediately emailed to you.</source>
+				<target state="translated">Voer uw gebruikersnaam of e-mailadres in. De instructies om uw wachtwoord te resetten worden naar u toegemaild.</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_reset_message_emailSent" approved="yes">
+				<source>An email has been sent to the address stored in your account and contains a link to reset your password. If you do not receive an email, your account or email address was not found.</source>
+				<target state="translated">Er is een e-mail naar het e-mailadres gestuurd, dat behoort bij uw account. Hierin staat een link waarmee u uw wachtwoord kunt resetten. Wanneer u geen e-mail ontvangt is uw account of uw e-mailadres niet gevonden.</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_reset_message_error" approved="yes">
+				<source>Your account or email address does not exist.</source>
+				<target state="translated">Dit account of e-mailadres bestaat niet.</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_validate_reset_password" xml:space="preserve" approved="yes">
+				<source>Your new password
+Dear %s,
+
+This email was sent in response to your request to reset your password. Please click on the link below.
+%s
+
+For security reasons, this link is only active until %s. If you do not visit the link before then, you will need to repeat the password reset steps.</source>
+			<target state="translated">Uw nieuwe wachtwoord
+Beste %s,
+
+U ontvangt deze e-mail als antwoord op uw verzoek om uw wachtwoord aan te passen. Klik op de link hieronder:
+%s
+
+Om veiligheidsredenen is deze link geldig tot %s. Wanneer u voor die tijd nog niet op de link geklikt heeft, moet u de procedure voor het aanvragen van een nieuw wachtwoord nogmaals volgen.</target></trans-unit>
+			<trans-unit id="ll_logout_header" approved="yes">
+				<source>You have logged out.</source>
+				<target state="translated">U bent uitgelogd.</target>
+			</trans-unit>
+			<trans-unit id="ll_logout_message" approved="yes">
+				<source>You just logged out from your user session on this website. You can login again or as another user by the form below.</source>
+				<target state="translated">U bent zojuist uitgelogd van uw gebruikers-sessie op deze website. U kunt opnieuw inloggen of inloggen als een andere gebruiker d.m.v. onderstaand formulier.</target>
+			</trans-unit>
+			<trans-unit id="ll_status_header" approved="yes">
+				<source>Current status</source>
+				<target state="translated">Huidige status</target>
+			</trans-unit>
+			<trans-unit id="ll_status_message" approved="yes">
+				<source>This is your current status</source>
+				<target state="translated">Dit is uw huidige status</target>
+			</trans-unit>
+			<trans-unit id="ll_success_header" approved="yes">
+				<source>Login successful</source>
+				<target state="translated">Login succesvol</target>
+			</trans-unit>
+			<trans-unit id="ll_success_message" approved="yes">
+				<source>You are now logged in as '###USER###'</source>
+				<target state="translated">U bent nu ingelogd als '###USER###'</target>
+			</trans-unit>
+			<trans-unit id="ll_welcome_header" approved="yes">
+				<source>User login</source>
+				<target state="translated">Inloggen</target>
+			</trans-unit>
+			<trans-unit id="ll_welcome_message" approved="yes">
+				<source>Enter your username and password here in order to log in on the website</source>
+				<target state="translated">Voer uw gebruikersnaam en wachtwoord hier in om in te loggen op de website</target>
+			</trans-unit>
+			<trans-unit id="login" approved="yes">
+				<source>Login</source>
+				<target state="translated">Inloggen</target>
+			</trans-unit>
+			<trans-unit id="logout" approved="yes">
+				<source>Logout</source>
+				<target state="translated">Uitloggen</target>
+			</trans-unit>
+			<trans-unit id="newpassword_label1" approved="yes">
+				<source>Enter new password</source>
+				<target state="translated">Voer nieuw wachtwoord in</target>
+			</trans-unit>
+			<trans-unit id="newpassword_label2" approved="yes">
+				<source>Repeat new password</source>
+				<target state="translated">Herhaal nieuw wachtwoord</target>
+			</trans-unit>
+			<trans-unit id="password" approved="yes">
+				<source>Password</source>
+				<target state="translated">Wachtwoord</target>
+			</trans-unit>
+			<trans-unit id="permalogin" approved="yes">
+				<source>Stay logged in</source>
+				<target state="translated">Ingelogd blijven</target>
+			</trans-unit>
+			<trans-unit id="reset_password" approved="yes">
+				<source>Reset Password</source>
+				<target state="translated">Wachtwoord resetten</target>
+			</trans-unit>
+			<trans-unit id="send_password" approved="yes">
+				<source>Send password</source>
+				<target state="translated">Wachtwoord verzenden</target>
+			</trans-unit>
+			<trans-unit id="username" approved="yes">
+				<source>Username</source>
+				<target state="translated">Gebruikersnaam</target>
+			</trans-unit>
+			<trans-unit id="your_email" approved="yes">
+				<source>Your email</source>
+				<target state="translated">Uw e-mail</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

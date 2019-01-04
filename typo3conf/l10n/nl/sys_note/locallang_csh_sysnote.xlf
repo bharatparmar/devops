@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:37Z" product-name="sys_note" target-language="nl">
+    <header/>
+    <body>
+      <trans-unit id=".description" xml:space="preserve" approved="yes">
+        <source>Internal reminder note attached to a page.</source>
+      <target state="translated">Interne notitie peplaatst op de pagina.</target></trans-unit>
+      <trans-unit id=".details" xml:space="preserve" approved="yes">
+        <source>This provides a simple way to attach informative notes to a page regarding backend-related issues. Use it as you like for reminders, instructions, etc.</source>
+      <target state="translated">Dit voorziet in een eenvoudige manier om instructieve notities aan een pagina te koppelen die betrekking hebben op backend gerelateerde zaken. Gebruik het voor herinneringen, instructies enz.</target></trans-unit>
+      <trans-unit id="_.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages</source>
+      <target state="translated">pagina's</target></trans-unit>
+      <trans-unit id="category.description" xml:space="preserve" approved="yes">
+        <source>Select a category which describes the character of the note.</source>
+      <target state="translated">Selecteer een categorie waar de inhoud van de notitie onder valt.</target></trans-unit>
+      <trans-unit id="subject.description" xml:space="preserve" approved="yes">
+        <source>Enter a title for the note.</source>
+      <target state="translated">Vul een title voor de notitie in</target></trans-unit>
+      <trans-unit id="message.description" xml:space="preserve" approved="yes">
+        <source>This is the note itself.</source>
+      <target state="translated">Dit is de notitie zelf</target></trans-unit>
+      <trans-unit id="author.description" xml:space="preserve" approved="yes">
+        <source>Enter your name.</source>
+      <target state="translated">Vul uw naam in</target></trans-unit>
+      <trans-unit id="email.description" xml:space="preserve" approved="yes">
+        <source>Enter your email address.</source>
+      <target state="translated">Vul uw emailadres in</target></trans-unit>
+      <trans-unit id="personal.description" xml:space="preserve" approved="yes">
+        <source>Check this if you don't want other users to see this note.</source>
+      <target state="translated">Markeer dit, als u niet wilt dat andere gebruikers deze notitie kunnen zien.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

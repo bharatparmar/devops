@@ -1,0 +1,29 @@
+<!-- ItemAlbum.html -->
+<div class="col-md-6 col-sm-12 col-xs-6 album">
+	<div class="row">
+		<div class="left">
+			<f:link.action action="show" arguments="{album : album}">
+				<f:for each="{album.gallery}" as="gallery" iteration="itemIteration">
+					<f:if condition="{itemIteration.isFirst}">
+						<f:then>
+							<f:for each="{gallery.images}" as="images" iteration="imageIteration">
+								<f:if condition="{imageIteration.isFirst}">
+									<f:then>
+										<f:image image="{images.image}" height="{settings.imageHeight}" width="{settings.imageWidth}" />
+									</f:then>
+								</f:if>
+							</f:for>
+						</f:then>
+					</f:if>
+				</f:for>
+			</f:link.action>
+		</div>
+		<div class="albumname">
+			<f:link.action action="show" arguments="{album : album}">
+				{album.name}
+			</f:link.action>
+			<br>
+			<p><f:count>{album.gallery}</f:count> Album</p>
+		</div>
+	</div>
+</div>

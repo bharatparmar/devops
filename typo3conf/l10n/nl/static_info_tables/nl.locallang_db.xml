@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="nl" type="array">
+			<label index="static_territories.title">Gebied</label>
+			<label index="static_territories_item.tr_iso_nr">ISO nr gebiedscode:</label>
+			<label index="static_territories_item.tr_parent_iso_nr">Bovenliggende gebiedscode:</label>
+			<label index="static_territories_item.tr_name_en">Naam (EN):</label>
+			<label index="static_countries.title">Landen</label>
+			<label index="static_countries_item.cn_iso_2">ISO 3166-1 A2 Landen code:</label>
+			<label index="static_countries_item.cn_iso_3">ISO 3166-1 A3 Landen code:</label>
+			<label index="static_countries_item.cn_iso_nr">ISO 3166-1 Nr Landen code:</label>
+			<label index="static_countries_item.cn_official_name_local">Officieele naam (lokaal):</label>
+			<label index="static_countries_item.cn_official_name_en">Officieele naam (EN):</label>
+			<label index="static_countries_item.cn_capital">Hoofdstad:</label>
+			<label index="static_countries_item.cn_tldomain">Top level domein:</label>
+			<label index="static_countries_item.cn_currency_iso_nr">ISO 4217 Nr Valuta code:</label>
+			<label index="static_countries_item.cn_currency_iso_3">ISO 4217 A3 Valuta code:</label>
+			<label index="static_countries_item.cn_phone">Int. telefoon voorvoegsel:</label>
+			<label index="static_countries_item.cn_uno_member">VN lid:</label>
+			<label index="static_countries_item.cn_eu_member">EU lid:</label>
+			<label index="static_countries_item.cn_address_format">Adres formaat:</label>
+			<label index="static_countries_item.cn_address_format_1">postcode plaats</label>
+			<label index="static_countries_item.cn_address_format_2">plaats postcode</label>
+			<label index="static_countries_item.cn_address_format_3">plaats regio-code postcode</label>
+			<label index="static_countries_item.cn_address_format_4">plaats (regio-naam) postcode</label>
+			<label index="static_countries_item.cn_address_format_5">plaats/postcode</label>
+			<label index="static_countries_item.cn_address_format_6">postcode plaats, regio-code</label>
+			<label index="static_countries_item.cn_address_format_7">postocde plaats regio-code</label>
+			<label index="static_countries_item.cn_address_format_8">postcode plaats (regio naam)</label>
+			<label index="static_countries_item.cn_address_format_9">plaats - regio-code/postcode</label>
+			<label index="static_countries_item.cn_zone_flag">Zone vlag:</label>
+			<label index="static_countries_item.cn_short_local">Verkorte naam (lokaal):</label>
+			<label index="static_countries_item.cn_short_en">Verkorte naam (EN):</label>
+			<label index="static_country_zones.title">Land subdivisies:</label>
+			<label index="static_country_zones_item.zn_country_iso_nr">ISO 3166-1 Nr Landen code:</label>
+			<label index="static_country_zones_item.zn_country_iso_2">ISO 3166-1 A2 Landen code:</label>
+			<label index="static_country_zones_item.zn_country_iso_3">SO 3166-1 A3 Landen code:</label>
+			<label index="static_country_zones_item.zn_code">ISO 3166-2 Landen Zone code:</label>
+			<label index="static_country_zones_item.zn_name_en">Naam (EN):</label>
+			<label index="static_languages.title">Talen</label>
+			<label index="static_languages_item.lg_iso_2">ISO 639-1 A2 Talen code:</label>
+			<label index="static_languages_item.lg_collate_locale">Lokaal invoegen:</label>
+			<label index="static_languages_item.lg_name_en">Naam (EN):</label>
+			<label index="static_languages_item.lg_typo3">TYPO3 taal code:</label>
+			<label index="static_languages_item.lg_sacred">Heilige taal:</label>
+			<label index="static_languages_item.lg_constructed">Geconstrueerde taal:</label>
+			<label index="static_currencies.title">Valuta:</label>
+			<label index="static_currencies_item.cu_iso_3">ISO 4217 A3 Valuta code:</label>
+			<label index="static_currencies_item.cu_iso_nr">ISO 4217 Nr Valuta code:</label>
+			<label index="static_currencies_item.cu_name_en">Naam (EN):</label>
+			<label index="static_currencies_item.cu_sub_name_en">Sub naam (EN):</label>
+			<label index="static_currencies_item.cu_symbol_left">Symbool links:</label>
+			<label index="static_currencies_item.cu_symbol_right">Symbool rechts:</label>
+			<label index="static_currencies_item.cu_thousands_point">Duizendtallen punt:</label>
+			<label index="static_currencies_item.cu_decimal_point">Decimaal punt:</label>
+			<label index="static_currencies_item.cu_decimal_digits">Decimalen:</label>
+			<label index="static_currencies_item.cu_sub_divisor">Divisor:</label>
+			<label index="static_currencies_item.cu_sub_symbol_left">Sub symbool link:</label>
+			<label index="static_currencies_item.cu_sub_symbol_right">Sub symbool rechts:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

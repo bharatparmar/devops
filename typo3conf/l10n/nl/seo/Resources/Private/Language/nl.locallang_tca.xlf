@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="nl" datatype="plaintext" original="messages" date="2018-11-29T06:39:38Z" product-name="seo">
+		<header/>
+		<body>
+			<trans-unit id="pages.canonical_link">
+				<source>Canonical link</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.no_follow" approved="yes">
+				<source>No follow</source>
+				<target state="translated">No follow</target>
+			</trans-unit>
+			<trans-unit id="pages.no_follow_formlabel" approved="yes">
+				<source>Follow this page</source>
+				<target state="translated">Deze pagina volgen</target>
+			</trans-unit>
+			<trans-unit id="pages.no_index" approved="yes">
+				<source>No index</source>
+				<target state="translated">Geen index</target>
+			</trans-unit>
+			<trans-unit id="pages.no_index_formlabel" approved="yes">
+				<source>Index this page</source>
+				<target state="translated">Deze pagina indexeren</target>
+			</trans-unit>
+			<trans-unit id="pages.og_description" approved="yes">
+				<source>Description</source>
+				<target state="translated">Beschrijving</target>
+			</trans-unit>
+			<trans-unit id="pages.og_image" approved="yes">
+				<source>Image</source>
+				<target state="translated">Afbeelding</target>
+			</trans-unit>
+			<trans-unit id="pages.og_title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Titel</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.canonical">
+				<source>Canonical</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.palettes.opengraph" approved="yes">
+				<source>Open Graph (Facebook)</source>
+				<target state="translated">Open Graph (Facebook)</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.robots" approved="yes">
+				<source>Robot instructions</source>
+				<target state="translated">Robot-instructies</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.seo" approved="yes">
+				<source>General SEO settings</source>
+				<target state="translated">Algemene SEO-instellingen</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.twittercards" approved="yes">
+				<source>Twitter Cards</source>
+				<target state="translated">Twitter-kaarten</target>
+			</trans-unit>
+			<trans-unit id="pages.seo_title" approved="yes">
+				<source>Title for search engines</source>
+				<target state="translated">Titel voor zoekmachines</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.seo" approved="yes">
+				<source>SEO</source>
+				<target state="translated">SEO</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.socialmedia">
+				<source>Social media</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.twitter_description" approved="yes">
+				<source>Description</source>
+				<target state="translated">Beschrijving</target>
+			</trans-unit>
+			<trans-unit id="pages.twitter_image" approved="yes">
+				<source>Image</source>
+				<target state="translated">Afbeelding</target>
+			</trans-unit>
+			<trans-unit id="pages.twitter_title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Titel</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

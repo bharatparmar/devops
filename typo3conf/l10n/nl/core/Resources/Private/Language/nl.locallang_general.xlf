@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="nl" datatype="plaintext" original="messages" date="2018-11-29T01:13:20Z" product-name="core">
+		<header/>
+		<body>
+			<trans-unit id="LGL.address" approved="no">
+				<source>Address</source>
+				<target state="needs-translation">Adres:</target>
+			</trans-unit>
+			<trans-unit id="LGL.allLanguages" approved="yes">
+				<source>[All]</source>
+				<target state="translated">[Alle]</target>
+			</trans-unit>
+			<trans-unit id="LGL.any_login" approved="yes">
+				<source>Show at any login</source>
+				<target state="translated">Toon bij elke login</target>
+			</trans-unit>
+			<trans-unit id="LGL.author" approved="no">
+				<source>Author</source>
+				<target state="needs-translation">Auteur:</target>
+			</trans-unit>
+			<trans-unit id="LGL.baseStorage" approved="no">
+				<source>Storage</source>
+				<target state="needs-translation">Opslag:</target>
+			</trans-unit>
+			<trans-unit id="LGL.caption" approved="no">
+				<source>Caption</source>
+				<target state="needs-translation">Onderschrift:</target>
+			</trans-unit>
+			<trans-unit id="LGL.category" approved="no">
+				<source>Category</source>
+				<target state="needs-translation">Categorie:</target>
+			</trans-unit>
+			<trans-unit id="LGL.city" approved="no">
+				<source>City</source>
+				<target state="needs-translation">Stad:</target>
+			</trans-unit>
+			<trans-unit id="LGL.code" approved="no">
+				<source>CODE</source>
+				<target state="needs-translation">CODE:</target>
+			</trans-unit>
+			<trans-unit id="LGL.company" approved="no">
+				<source>Company</source>
+				<target state="needs-translation">Bedrijf:</target>
+			</trans-unit>
+			<trans-unit id="LGL.country" approved="no">
+				<source>Country</source>
+				<target state="needs-translation">Land:</target>
+			</trans-unit>
+			<trans-unit id="LGL.creationDate" approved="no">
+				<source>Created At</source>
+				<target state="needs-translation">Aangemaakt op:</target>
+			</trans-unit>
+			<trans-unit id="LGL.creationUserId" approved="no">
+				<source>Created By</source>
+				<target state="needs-translation">Gemaakt door:</target>
+			</trans-unit>
+			<trans-unit id="LGL.default_value" approved="yes">
+				<source>Default</source>
+				<target state="translated">Standaard</target>
+			</trans-unit>
+			<trans-unit id="LGL.description" approved="no">
+				<source>Description</source>
+				<target state="needs-translation">Omschrijving:</target>
+			</trans-unit>
+			<trans-unit id="LGL.disable" approved="no">
+				<source>Disable</source>
+				<target state="needs-translation">Uitschakelen:</target>
+			</trans-unit>
+			<trans-unit id="LGL.disabled" approved="no">
+				<source>Disabled</source>
+				<target state="needs-translation">Uitschakelen:</target>
+			</trans-unit>
+			<trans-unit id="LGL.disableRTE" approved="no">
+				<source>Disable Rich Text Editor</source>
+				<target state="needs-translation">Deactiveer Rich Text Editor:</target>
+			</trans-unit>
+			<trans-unit id="LGL.email" approved="no">
+				<source>Email</source>
+				<target state="needs-translation">E-mail:</target>
+			</trans-unit>
+			<trans-unit id="LGL.enabled">
+				<source>Enabled</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.endtime" approved="no">
+				<source>Stop</source>
+				<target state="needs-translation">Stop:</target>
+			</trans-unit>
+			<trans-unit id="LGL.error" approved="yes">
+				<source>Error!</source>
+				<target state="translated">Fout!</target>
+			</trans-unit>
+			<trans-unit id="LGL.external" approved="yes">
+				<source>External URL</source>
+				<target state="translated">Externe URL</target>
+			</trans-unit>
+			<trans-unit id="LGL.fax" approved="no">
+				<source>Fax</source>
+				<target state="needs-translation">Fax:</target>
+			</trans-unit>
+			<trans-unit id="LGL.fe_group" approved="no">
+				<source>Access</source>
+				<target state="needs-translation">Toegang:</target>
+			</trans-unit>
+			<trans-unit id="LGL.first_name" approved="no">
+				<source>First name</source>
+				<target state="needs-translation">Voornaam:</target>
+			</trans-unit>
+			<trans-unit id="LGL.folder" approved="no">
+				<source>Folder</source>
+				<target state="needs-translation">Map:</target>
+			</trans-unit>
+			<trans-unit id="LGL.height" approved="yes">
+				<source>Height</source>
+				<target state="translated">Hoogte</target>
+			</trans-unit>
+			<trans-unit id="LGL.hidden" approved="no">
+				<source>Hide</source>
+				<target state="needs-translation">Verberg:</target>
+			</trans-unit>
+			<trans-unit id="LGL.hide_at_login" approved="yes">
+				<source>Hide at login</source>
+				<target state="translated">Verberg bij login</target>
+			</trans-unit>
+			<trans-unit id="LGL.image" approved="no">
+				<source>Image</source>
+				<target state="needs-translation">Afbeelding:</target>
+			</trans-unit>
+			<trans-unit id="LGL.images" approved="no">
+				<source>Images</source>
+				<target state="needs-translation">Afbeeldingen:</target>
+			</trans-unit>
+			<trans-unit id="LGL.keywords" approved="no">
+				<source>Keywords (,)</source>
+				<target state="needs-translation">Trefwoorden (,):</target>
+			</trans-unit>
+			<trans-unit id="LGL.l18n_parent" approved="no">
+				<source>Transl.Orig</source>
+				<target state="needs-translation">Vertal.Orig:</target>
+			</trans-unit>
+			<trans-unit id="LGL.language" approved="no">
+				<source>Language</source>
+				<target state="needs-translation">Taal:</target>
+			</trans-unit>
+			<trans-unit id="LGL.lastlogin" approved="no">
+				<source>Last login</source>
+				<target state="needs-translation">Laatste login:</target>
+			</trans-unit>
+			<trans-unit id="LGL.last_name" approved="no">
+				<source>Last name</source>
+				<target state="needs-translation">Achternaam:</target>
+			</trans-unit>
+			<trans-unit id="LGL.layout" approved="no">
+				<source>Layout</source>
+				<target state="needs-translation">Lay-out:</target>
+			</trans-unit>
+			<trans-unit id="LGL.links" approved="yes">
+				<source>Links</source>
+				<target state="translated">Links</target>
+			</trans-unit>
+			<trans-unit id="LGL.middle_name" approved="no">
+				<source>Middle name</source>
+				<target state="needs-translation">Tussenvoegsels:</target>
+			</trans-unit>
+			<trans-unit id="LGL.name" approved="no">
+				<source>Name</source>
+				<target state="needs-translation">Naam:</target>
+			</trans-unit>
+			<trans-unit id="LGL.normal" approved="yes">
+				<source>Normal</source>
+				<target state="translated">Normaal</target>
+			</trans-unit>
+			<trans-unit id="LGL.note" approved="no">
+				<source>Note</source>
+				<target state="needs-translation">Opmerking:</target>
+			</trans-unit>
+			<trans-unit id="LGL.parameters" approved="no">
+				<source>Parameters</source>
+				<target state="needs-translation">Parameters:</target>
+			</trans-unit>
+			<trans-unit id="LGL.phone" approved="no">
+				<source>Phone</source>
+				<target state="needs-translation">Telefoon:</target>
+			</trans-unit>
+			<trans-unit id="LGL.prependAtCopy" approved="yes">
+				<source>(copy %s)</source>
+				<target state="translated">(kopie %s)</target>
+			</trans-unit>
+			<trans-unit id="LGL.recursive" approved="no">
+				<source>Recursive</source>
+				<target state="needs-translation">Recursief:</target>
+			</trans-unit>
+			<trans-unit id="LGL.shortcut_page" approved="no">
+				<source>Shortcut to page</source>
+				<target state="needs-translation">Snelkoppeling naar pagina:</target>
+			</trans-unit>
+			<trans-unit id="LGL.startingpoint" approved="no">
+				<source>Startingpoint</source>
+				<target state="needs-translation">Startpunt:</target>
+			</trans-unit>
+			<trans-unit id="LGL.starttime" approved="no">
+				<source>Start</source>
+				<target state="needs-translation">Start:</target>
+			</trans-unit>
+			<trans-unit id="LGL.subheader" approved="no">
+				<source>Subheader</source>
+				<target state="needs-translation">Subkop:</target>
+			</trans-unit>
+			<trans-unit id="LGL.text" approved="no">
+				<source>Text</source>
+				<target state="needs-translation">Tekst:</target>
+			</trans-unit>
+			<trans-unit id="LGL.timestamp" approved="no">
+				<source>Last Modified</source>
+				<target state="needs-translation">Laatst gewijzigd:</target>
+			</trans-unit>
+			<trans-unit id="LGL.title" approved="no">
+				<source>Title</source>
+				<target state="needs-translation">Titel:</target>
+			</trans-unit>
+			<trans-unit id="LGL.title_person" approved="no">
+				<source>Title</source>
+				<target state="needs-translation">Titel:</target>
+			</trans-unit>
+			<trans-unit id="LGL.type" approved="no">
+				<source>Type</source>
+				<target state="needs-translation">Type:</target>
+			</trans-unit>
+			<trans-unit id="LGL.usergroups" approved="yes">
+				<source>__Usergroups:__</source>
+				<target state="translated">__Gebruikersgroep:__</target>
+			</trans-unit>
+			<trans-unit id="LGL.versionLabel" approved="no">
+				<source>Versioning Label</source>
+				<target state="needs-translation">Versie Label:</target>
+			</trans-unit>
+			<trans-unit id="LGL.visible">
+				<source>Visible</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.width" approved="yes">
+				<source>Width</source>
+				<target state="translated">Breedte</target>
+			</trans-unit>
+			<trans-unit id="LGL.www" approved="no">
+				<source>www</source>
+				<target state="needs-translation">www:</target>
+			</trans-unit>
+			<trans-unit id="LGL.zip" approved="no">
+				<source>Zipcode</source>
+				<target state="needs-translation">Postcode:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

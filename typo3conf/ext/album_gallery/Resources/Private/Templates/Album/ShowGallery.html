@@ -1,0 +1,44 @@
+<html xmlns:f="https://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers"
+	xmlns:ag="http://typo3.org/ns/DRC/AlbumGallery/ViewHelpers"
+	data-namespace-typo3-fluid="true">
+	<f:layout name="Default" />
+
+	This Template is responsible for creating a table of domain objects.
+
+	If you modify this template, do not forget to change the overwrite settings
+	in /Configuration/ExtensionBuilder/settings.yaml:
+	  Resources:
+		Private:
+		  Templates:
+			List.html: keep
+
+	Otherwise your changes will be overwritten the next time you save the extension in the extension builder
+
+	<f:section name="content">
+
+		<f:flashMessages />
+		<hr class="up">
+		<f:link.action action="list" ><f:translate key="tx_albumgallery_domain_model_allgallery" /> </f:link.action>»
+		<f:link.action action="show" arguments="{album : album}">{bredcrumb} </f:link.action>»
+		<f:link.action action="showGallery" arguments="{gallery : gallery}">{bredcrumbName} </f:link.action>
+		<hr class="down">
+		<f:if condition="{settings.hidePagination}">
+			<f:then>
+				<div class="row">
+					<f:for each="{images}" as="image">
+						<f:render partial="Album/ItemImages" arguments="{images: image}" />
+					</f:for>
+				</div>
+			</f:then>
+			<f:else>
+				<ag:widget.paginate objects="{images}" as="paginatedimages" configuration="{itemsPerPage:  settings.itemsPerPage}">
+					<div class="row">
+						<f:for each="{paginatedimages}" as="image">
+							<f:render partial="Album/ItemImages" arguments="{images: image}" />
+						</f:for>
+					</div>
+				</ag:widget.paginate>					
+			</f:else>
+		</f:if>
+	</f:section>
+</html>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns:t3="http://typo3.org/schemas/xliff" version="1.0">
+	<file t3:id="1416085778" source-language="en" datatype="plaintext" original="messages" date="2015-07-27T18:40:23Z" product-name="scheduler" target-language="nl">
+		<header/>
+		<body>
+			<trans-unit id="testTask.name" xml:space="preserve" approved="yes">
+				<source>Scheduler test task</source>
+			<target state="translated">Taakplanner testtaak</target></trans-unit>
+			<trans-unit id="testTask.description" xml:space="preserve" approved="yes">
+				<source>The Scheduler test task just sends a mail to a given email address. It is designed to be used for testing purposes.</source>
+			<target state="translated">De Taakplanner-testtaak stuurt een e-mail naar een opgegeven adres. De testtaak is bedoeld voor testdoeleinden.</target></trans-unit>
+			<trans-unit id="sleepTask.name" xml:space="preserve" approved="yes">
+				<source>Scheduler sleep task</source>
+			<target state="translated">Taakplanner-pauzetaak</target></trans-unit>
+			<trans-unit id="sleepTask.description" xml:space="preserve" approved="yes">
+				<source>This task does nothing but put PHP to sleep for a number of seconds. It is designed to test multiple executions.</source>
+			<target state="translated">Deze taak doet niets dan PHP een paar seconden laten pauzeren. Het doel van deze testtaak is het testen van gelijktijdige bewerkingen.</target></trans-unit>
+			<trans-unit id="cachingFrameworkGarbageCollection.name" xml:space="preserve" approved="yes">
+				<source>Caching framework garbage collection</source>
+			<target state="translated">Opruimactie voor caching-raamwerk</target></trans-unit>
+			<trans-unit id="cachingFrameworkGarbageCollection.description" xml:space="preserve" approved="yes">
+				<source>This task calls the garbage collection of configured caching framework caches which use one of the selected backends. This will free some space in cache backends which do not have an internal garbage collection. In case of the default database backend it is advisable to run this task once a day when the database is mostly idle.</source>
+			<target state="translated">Deze taak roept de opruimactie van de caches van het ingestelde caching-raamwerk aan die gebruik maken van een van de gekozen backends. Dit maakt ruimte vrij in cache backends die geen interne opruimactie hebben. In het geval van de standaard database backend is het aan te raden deze taak een keer per dag uit te voeren wanneer de database het rustigst is.</target></trans-unit>
+			<trans-unit id="fileIndexing.name" xml:space="preserve" approved="yes">
+				<source>[OBSOLETE] File Abstraction Layer: Indexing job</source>
+			<target state="translated">File Abstraction Layer: Indexing job</target></trans-unit>
+			<trans-unit id="fileIndexing.description" xml:space="preserve" approved="yes">
+				<source>Runs indexing tasks based on an indexing configuration and a storage/folder information.</source>
+			<target state="translated">Draait indexeertaken aan de hand van een indexeerconfiguratie en informatie uit de opslagmap.</target></trans-unit>
+			<trans-unit id="fileStorageIndexing.name" xml:space="preserve" approved="yes">
+				<source>File Abstraction Layer: Update storage index</source>
+			<target state="translated">Abstractielaag voor bestanden: Index in opslag bijwerken</target></trans-unit>
+			<trans-unit id="fileStorageIndexing.description" xml:space="preserve" approved="yes">
+				<source>Updates the Index/Cache Data of a Storage; only needed if changes to the storage are possible outside the backend (FTP, RemoteStorages).</source>
+			<target state="translated">Werkt de Index/Cache data van een Opslag bij; alleen nodig als de opslag gewijzigd kan worden buiten de backend (FTP, externe bronnen)</target></trans-unit>
+			<trans-unit id="fileStorageExtraction.name" xml:space="preserve" approved="yes">
+				<source>File Abstraction Layer: Extract metadata in storage</source>
+			<target state="translated">Abstractielaag voor bestanden: metadata in opslag extraheren</target></trans-unit>
+			<trans-unit id="fileStorageExtraction.description" xml:space="preserve" approved="yes">
+				<source>Extracts metadata for all files in storage which have been changed since last run.</source>
+			<target state="translated">Extraheert metadata voor alle bestanden in een Opslag die zijn gewijzigd sinds de vorige keer.</target></trans-unit>
+			<trans-unit id="tableGarbageCollection.name" xml:space="preserve" approved="yes">
+				<source>Table garbage collection</source>
+			<target state="translated">Opruimactie voor tabellen</target></trans-unit>
+			<trans-unit id="tableGarbageCollection.description" xml:space="preserve" approved="yes">
+				<source>Task to delete old entries from specific tables like sys_log. Use $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['scheduler']['tasks']['tx_scheduler_TableGarbageCollection']['options']['tables'] to configure tables. Refer to the manual for more details.</source>
+			<target state="translated">Taak om oude items uit specifieke tabellen zoals sys_log te verwijderen. Gebruik GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['scheduler']['tasks']['tx_scheduler_TableGarbageCollection']['options']['tables'] om de tabellen in te stellen. Zie de handleiding voor meer details.</target></trans-unit>
+			<trans-unit id="recyclerGarbageCollection.name" xml:space="preserve" approved="yes">
+				<source>Fileadmin garbage collection</source>
+			<target state="translated">Opruimactie voor de fileadmin</target></trans-unit>
+			<trans-unit id="recyclerGarbageCollection.description" xml:space="preserve" approved="yes">
+				<source>This task empties all "_recycler_" folders below fileadmin. This helps free some space in the file system.</source>
+			<target state="translated">Deze taak leegt alle "_recycler_" mappen onder de fileadmin. Dit maakt wat ruimte vrij in het bestandssysteem.</target></trans-unit>
+		</body>
+	</file>
+</xliff>

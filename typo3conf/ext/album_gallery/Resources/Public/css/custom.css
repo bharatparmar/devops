@@ -1,0 +1,43 @@
+.tx-album-gallery .album{
+    margin-bottom: 25px;
+}
+.tx-album-gallery .album .left{
+    float: left;
+}
+.tx-album-gallery .album .albumname{
+    margin-left: 210px;
+}
+.tx-album-gallery .page {
+    margin-top: 25px;
+    color: #777;
+    font-family: Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+}
+.up{
+    margin-top: -4px; 
+    margin-bottom: 8px; 
+}
+.down{
+    margin-top: 8px; 
+    margin-bottom: 8px; 
+}
+.f3-widget-paginator {
+    display: inline-flex;
+    list-style-type: none;
+}
+.f3-widget-paginator li {
+    float: left;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+.fancybox-button--zoom, .fancybox-button--play, .fancybox-button--thumbs{
+    display: none !important;
+}
+
+@media (min-width: 768px ) and (max-width:991px){
+	.tx-album-gallery .col {
+        width: 100%;
+        margin: 0 15px 15px 0;	
+	}
+}

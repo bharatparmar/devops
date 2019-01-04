@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="hi" datatype="plaintext" original="messages" date="2018-11-29T01:57:37Z" product-name="felogin">
+		<header/>
+		<body>
+			<trans-unit id="change_password" approved="yes">
+				<source>Change your password</source>
+				<target state="translated">अपना पासवर्ड बदलें</target>
+			</trans-unit>
+			<trans-unit id="cookie_warning" approved="yes">
+				<source>Warning: There is a possibility that cookies are not enabled in your web browser! If your login disappears on your next click that is the case and you should enable cookies (or accept cookies from this website) immediately!</source>
+				<target state="translated">चेतावनी: वहाँ एक संभावना है कि आपके वेब ब्राउज़र में कुकीज़ सक्षम नहीं है! यदि आपका लॉग-इन आपकी अगली क्लिक पर गायब हो जाता है यह मामला है जिसमे आपको तुरंत कुकीज़ को सक्षम करना चाहिए (या इस वेबसाइट से कुकीज़ को स्वीकार ना चाहिए)!</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_done_message" approved="yes">
+				<source>Your password has been saved. You can now login with your new password.</source>
+				<target state="translated">आपके पासवर्ड को सेव किया जा चुका है। अब आप अपने नए पासवर्ड के साथ लॉग-इन कर सकते हैं।</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_header" approved="yes">
+				<source>Change your password</source>
+				<target state="translated">अपना पासवर्ड बदलें</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_message" approved="yes">
+				<source>Please enter your new password twice. Password needs a minimum length of %s chars.</source>
+				<target state="translated">कृपिया अपना नया पासवर्ड दो बार दर्ज करें। पासवर्ड को न्यूनतम लंबाई "%s" chars की जरूरत है।</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_nolinkprefix_message" approved="yes">
+				<source>Error: there is no prefix for the link. Please set one of the following in your typoscript template: plugin.tx_felogin_pi1.feloginBaseURL = http://yourdomain/, config.baseURL = http://yourdomain/, config.absRefPrefix = /</source>
+				<target state="translated">एरर: वहां लिंक के लिए कोई प्रीफिक्स नहीं है। कृपिया अपने टाइपो-स्क्रिप्ट टेम्पलेट में निम्न में से एक सेट करे: plugin.tx_felogin_pi1.feloginBaseURL = http://yourdomain/, config.baseURL = http://yourdomain/, config.absRefPrefix = /</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_notequal_message" approved="yes">
+				<source>The passwords are not equal, please enter your new password twice. Password needs a minimum length of %s chars.</source>
+				<target state="translated">पासवर्ड बराबर नहीं हैं, कृपिया अपना नया पासवर्ड दो बार दर्ज करें। पासवर्ड को न्यूनतम लंबाई "%s" chars की जरूरत है।</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_notvalid_message" approved="no">
+				<source>The link you clicked is not valid. Please repeat the forgot password procedure.</source>
+				<target state="needs-translation">आपके द्वारा क्लिक की गई लिंक मान्य नहीं है। कृपिया फॉरगॉट संदेश प्रोसीजर को दोहराएं।</target>
+			</trans-unit>
+			<trans-unit id="ll_change_password_tooshort_message" approved="yes">
+				<source>The password length is too short. Please enter your new password twice. Password needs a minimum length of %s chars.</source>
+				<target state="translated">पासवर्ड की लंबाई बहुत छोटी है।कृपिया अपना नया पासवर्ड दो बार दर्ज करें। पासवर्ड को न्यूनतम लंबाई "%s" chars की जरूरत है।</target>
+			</trans-unit>
+			<trans-unit id="ll_enter_your_data" approved="no">
+				<source>Username or email address</source>
+				<target state="needs-translation">उपयोगकर्ता का नाम या ईमेल एड्रेस:</target>
+			</trans-unit>
+			<trans-unit id="ll_error_header" approved="yes">
+				<source>Login failure</source>
+				<target state="translated">लॉगइन असफलता</target>
+			</trans-unit>
+			<trans-unit id="ll_error_message" xml:space="preserve" approved="yes">
+				<source>An error occurred during login. Most likely you didn't enter the username or password correctly.
+Be certain that you enter them precisely as they are, including upper/lower case.
+Another possibility is that cookies might be disabled in your web browser.</source>
+			<target state="translated">लोगिन के दौरान एरर उत्पन हुई। सबसे अधिक संभावना है की आपने उपयोगकर्ता का नाम या पासवर्ड सही ढंग से दर्ज नहीं किया होगा।
+यह निश्चित करे की आपने अपर/लोअर केस को मिला कर उन्हें ठीक उसी रूप में एंटर किया है जिस रूप में वो थे। 
+एक और संभावना है कि आपके वेब ब्राउज़र में कुकीज़ को अक्षम किया गया है।</target></trans-unit>
+			<trans-unit id="ll_forgot_email_nopassword" xml:space="preserve" approved="yes">
+				<source>Your password
+Hi %s
+
+We couldn't find a username for this email address and so cannot send the password to you. Probably you misspelled the email address (upper/lower case makes a difference) or maybe you even didn't register yet?</source>
+			<target state="translated">आपका पासवर्ड 
+नमस्ते %s
+
+हम इस ईमेल एड्रेस के लिए उपयोगकर्ता का नाम नहीं खोज सके और इसलिए आपको पासवर्ड नहीं भेज सकते।शायद आपने ईमेल एड्रेस गलत तरीके से लिखा हो(अपर/लोअर केस से फर्क पड़ता है) या ये अभी हो सकता है कि आपने अभी तक रजिस्टर नहींकिया हो?</target></trans-unit>
+			<trans-unit id="ll_forgot_email_password" xml:space="preserve" approved="yes">
+				<source>Your password
+Hi %s
+
+Your username is "%s"
+Your password is "%s"</source>
+			<target state="translated">आपका पासवर्ड 
+नमस्ते %s
+
+आपका उपयोगकर्ता नाम "%s" है 
+आपका पासवर्ड "%s" है</target></trans-unit>
+			<trans-unit id="ll_forgot_header" approved="yes">
+				<source>Forgot your password?</source>
+				<target state="translated">क्या आप अपना पासवर्ड भूल गए?</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_header_backToLogin" approved="yes">
+				<source>Return to login form</source>
+				<target state="translated">लॉग-इन फॉर्म पर वापस जाये</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_message" approved="yes">
+				<source>Please enter the email address by which you registered your user account. Then press "Send password" and your password will immediately be emailed to you. Make sure to spell your email address correctly.</source>
+				<target state="translated">कृपया जिस ईमेल एड्रेस के द्वारा आपने अपने उपयोगकर्ता खाते रजिस्टर्ड है किया है वह ईमेल एड्रेस दर्ज करें। फिर "सेंड पासवर्ड" को दबाये और आपका पासवर्ड आपको तुरंत ईमेल कर दिया जाएगा। यह सुनिश्चित करे कि आपका ईमेल एड्रेस सही तरीके से लिखा गया हैे।</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_message_emailSent" approved="yes">
+				<source>Your password has now been sent to the email address %s</source>
+				<target state="translated">आपका पासवर्ड अभी-अभी ईमेल एड्रेस %s पर भेज दिया गया है</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_reset_message" approved="yes">
+				<source>Please enter your username or email address. Instructions for resetting the password will be immediately emailed to you.</source>
+				<target state="translated">कृपया अपना उपयोगकर्ता नाम या ईमेल एड्रेस दर्ज करें। पासवर्ड रीसेट के लिए सूचनाए तुरंत आपको ईमेल कर दी जाएगी।</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_reset_message_emailSent" approved="yes">
+				<source>An email has been sent to the address stored in your account and contains a link to reset your password. If you do not receive an email, your account or email address was not found.</source>
+				<target state="translated">एक ईमेल आपके खाते में संग्रहीत एड्रेस पर भेजा गया है और आपके पासवर्ड को रीसेट करने के लिए एक लिंक को शामिल किया गया है। यदि आपको ईमेल नहीं मिला, तो आपका खाता या ईमेल एड्रेस नहीं पाया गया था।</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_reset_message_error" approved="yes">
+				<source>Your account or email address does not exist.</source>
+				<target state="translated">आपका खाता या ईमेल एड्रेस मौजूद नहीं है।</target>
+			</trans-unit>
+			<trans-unit id="ll_forgot_validate_reset_password" xml:space="preserve" approved="yes">
+				<source>Your new password
+Dear %s,
+
+This email was sent in response to your request to reset your password. Please click on the link below.
+%s
+
+For security reasons, this link is only active until %s. If you do not visit the link before then, you will need to repeat the password reset steps.</source>
+			<target state="translated">आपका नया पासवर्ड 
+प्यारे %s 
+
+यह ईमेल अापके पासवर्ड को रीसेट करने की आपकी विनंती के जवाब में भेजा गया था। नीचे दी गई लिंक पर क्लिक करें।
+%s
+
+सुरक्षा के कारणों से, यह लिंक केवल %s तक सक्रिय है। यदि आप इस से पहले इस लिंक को नहीं जांचते, तो आपको पासवर्ड रिसेट स्टेप दोहराने की जरूरत होगी।</target></trans-unit>
+			<trans-unit id="ll_logout_header" approved="yes">
+				<source>You have logged out.</source>
+				<target state="translated">आपने लॉग-आउट कर लिया।</target>
+			</trans-unit>
+			<trans-unit id="ll_logout_message" approved="yes">
+				<source>You just logged out from your user session on this website. You can login again or as another user by the form below.</source>
+				<target state="translated">अापने अभी अभी इस वेबसाइट पर उपयोगकर्ता सेशन से लोग-आउट किया है। आप नीचे दिए गए फार्म द्वारा फिर से या किसी अन्य उपयोगकर्ता के रूप में लॉग-इन कर सकते हैं।</target>
+			</trans-unit>
+			<trans-unit id="ll_status_header" approved="yes">
+				<source>Current status</source>
+				<target state="translated">वर्तमान स्टेटस</target>
+			</trans-unit>
+			<trans-unit id="ll_status_message" approved="no">
+				<source>This is your current status</source>
+				<target state="needs-translation">यह आपका वर्तमान स्टेटस है:</target>
+			</trans-unit>
+			<trans-unit id="ll_success_header" approved="yes">
+				<source>Login successful</source>
+				<target state="translated">सफलतापूर्वक लॉग-इन</target>
+			</trans-unit>
+			<trans-unit id="ll_success_message" approved="yes">
+				<source>You are now logged in as '###USER###'</source>
+				<target state="translated">अब आपने '###उपयोगकर्ता###' के रूप में लॉग-इन किया है</target>
+			</trans-unit>
+			<trans-unit id="ll_welcome_header" approved="yes">
+				<source>User login</source>
+				<target state="translated">उपयोगकर्ता लॉग-इनः</target>
+			</trans-unit>
+			<trans-unit id="ll_welcome_message" approved="no">
+				<source>Enter your username and password here in order to log in on the website</source>
+				<target state="needs-translation">वेबसाइट पर लॉग इन करने आर्डर में अपना उपयोगकर्ता नाम और पासवर्ड यहाँ दर्ज करे:</target>
+			</trans-unit>
+			<trans-unit id="login" approved="yes">
+				<source>Login</source>
+				<target state="translated">लॉगइन</target>
+			</trans-unit>
+			<trans-unit id="logout" approved="yes">
+				<source>Logout</source>
+				<target state="translated">लॉगआउट</target>
+			</trans-unit>
+			<trans-unit id="newpassword_label1" approved="yes">
+				<source>Enter new password</source>
+				<target state="translated">नया पासवर्ड दाखिल करें</target>
+			</trans-unit>
+			<trans-unit id="newpassword_label2" approved="yes">
+				<source>Repeat new password</source>
+				<target state="translated">नया पासवर्ड दोहराएँ</target>
+			</trans-unit>
+			<trans-unit id="password" approved="no">
+				<source>Password</source>
+				<target state="needs-translation">पासवर्ड:</target>
+			</trans-unit>
+			<trans-unit id="permalogin" approved="no">
+				<source>Stay logged in</source>
+				<target state="needs-translation">लॉगइन रखें:</target>
+			</trans-unit>
+			<trans-unit id="reset_password" approved="yes">
+				<source>Reset Password</source>
+				<target state="translated">पासवर्ड फिर सेट करें</target>
+			</trans-unit>
+			<trans-unit id="send_password" approved="yes">
+				<source>Send password</source>
+				<target state="translated">पासवर्ड भेज</target>
+			</trans-unit>
+			<trans-unit id="username" approved="no">
+				<source>Username</source>
+				<target state="needs-translation">उपयोगकर्ता का नाम:</target>
+			</trans-unit>
+			<trans-unit id="your_email" approved="no">
+				<source>Your email</source>
+				<target state="needs-translation">आपका ईमेल:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

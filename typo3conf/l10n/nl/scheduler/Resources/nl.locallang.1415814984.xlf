@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns:t3="http://typo3.org/schemas/xliff" version="1.0">
+	<file t3:id="1415814984" source-language="en" datatype="plaintext" original="messages" date="2015-07-28T05:20:11Z" product-name="scheduler" target-language="nl">
+		<header/>
+		<body>
+			<trans-unit id="action.add" approved="yes">
+				<source>Add task</source>
+			<target state="translated">Taak toevoegen</target></trans-unit>
+			<trans-unit id="action.edit" approved="yes">
+				<source>Edit task</source>
+			<target state="translated">Taak bewerken</target></trans-unit>
+			<trans-unit id="button.cancel" approved="yes">
+				<source>Cancel</source>
+			<target state="translated">Annuleren</target></trans-unit>
+			<trans-unit id="function.scheduler" approved="yes">
+				<source>Scheduled tasks</source>
+			<target state="translated">Geplande taken</target></trans-unit>
+			<trans-unit id="function.check" approved="yes">
+				<source>Setup check</source>
+			<target state="translated">Instellingen controleren</target></trans-unit>
+			<trans-unit id="function.info" approved="yes">
+				<source>Information</source>
+			<target state="translated">Informatie</target></trans-unit>
+			<trans-unit id="hdg.cliScript" approved="yes">
+				<source>CLI script</source>
+			<target state="translated">CLI script</target></trans-unit>
+			<trans-unit id="hdg.lastRun" approved="yes">
+				<source>Last run</source>
+			<target state="translated">Laatste uitvoering</target></trans-unit>
+			<trans-unit id="hdg.schedulerUser" approved="yes">
+				<source>TYPO3 Scheduler backend user</source>
+			<target state="translated">TYPO3 Taakplanner backend-gebruiker:</target></trans-unit>
+			<trans-unit id="label.automatically" approved="yes">
+				<source>automatically</source>
+			<target state="translated">automatisch</target></trans-unit>
+			<trans-unit id="label.cachingFrameworkGarbageCollection.selectBackends" approved="yes">
+				<source>Backend types</source>
+			<target state="translated">Backend-types</target></trans-unit>
+			<trans-unit id="label.recyclerGarbageCollection.numberOfDays" approved="yes">
+				<source>Number of days until removing files</source>
+			<target state="translated">Aantal dagen totdat bestanden verwijderd worden</target></trans-unit>
+			<trans-unit id="label.checkAll" approved="yes">
+				<source>Check/uncheck all</source>
+			<target state="translated">Alles selecteren/deselecteren</target></trans-unit>
+			<trans-unit id="label.class" approved="yes">
+				<source>Class</source>
+			<target state="translated">Klasse</target></trans-unit>
+			<trans-unit id="label.cron" approved="yes">
+				<source>Cron</source>
+			<target state="translated">Cron</target></trans-unit>
+			<trans-unit id="label.defType" approved="yes">
+				<source>Definition type</source>
+			<target state="translated">Definitietype</target></trans-unit>
+			<trans-unit id="label.defType.interval" approved="yes">
+				<source>Interval</source>
+			<target state="translated">Interval</target></trans-unit>
+			<trans-unit id="label.defType.cron" approved="yes">
+				<source>Cron command</source>
+			<target state="translated">Cron commando</target></trans-unit>
+			<trans-unit id="label.description" approved="yes">
+				<source>Description</source>
+			<target state="translated">Omschrijving</target></trans-unit>
+			<trans-unit id="label.email" approved="yes">
+				<source>Email</source>
+			<target state="translated">E-mail</target></trans-unit>
+			<trans-unit id="label.end" approved="yes">
+				<source>End (HH:MM DD-MM-YYYY)</source>
+			<target state="translated">Einde (UU:MM DD-MM-JJJJ)</target></trans-unit>
+			<trans-unit id="label.executeSelected" approved="yes">
+				<source>Execute selected tasks</source>
+			<target state="translated">Geselecteerde taken uitvoeren</target></trans-unit>
+			<trans-unit id="label.extension" approved="yes">
+				<source>Extension</source>
+			<target state="translated">Extensie</target></trans-unit>
+			<trans-unit id="label.frequency" approved="yes">
+				<source>Frequency</source>
+			<target state="translated">Frequentie</target></trans-unit>
+			<trans-unit id="label.frequency.long" approved="yes">
+				<source>Frequency (seconds or cron command)</source>
+			<target state="translated">Frequentie (seconden of cron-commando)</target></trans-unit>
+			<trans-unit id="label.id" approved="yes">
+				<source>ID</source>
+			<target state="translated">ID</target></trans-unit>
+			<trans-unit id="label.lastExecution" approved="yes">
+				<source>Last Execution</source>
+			<target state="translated">Laatst uitgevoerd</target></trans-unit>
+			<trans-unit id="label.manual" approved="yes">
+				<source>Manual</source>
+			<target state="translated">Handmatig</target></trans-unit>
+			<trans-unit id="label.manually" approved="yes">
+				<source>manually</source>
+			<target state="translated">handmatig</target></trans-unit>
+			<trans-unit id="label.name" approved="yes">
+				<source>Name</source>
+			<target state="translated">Naam</target></trans-unit>
+			<trans-unit id="label.nextExecution" approved="yes">
+				<source>Next Execution</source>
+			<target state="translated">Volgende uitvoering</target></trans-unit>
+			<trans-unit id="label.parallel" approved="yes">
+				<source>Parallel Execution</source>
+			<target state="translated">Parallelle uitvoering</target></trans-unit>
+			<trans-unit id="label.parallel.long" approved="yes">
+				<source>Allow Parallel Execution</source>
+			<target state="translated">Parallelle uitvoering toestaan</target></trans-unit>
+			<trans-unit id="label.serverTime" approved="yes">
+				<source>Server time</source>
+			<target state="translated">Tijd op server</target></trans-unit>
+			<trans-unit id="label.sleepTime" approved="yes">
+				<source>Sleep time</source>
+			<target state="translated">Pauze</target></trans-unit>
+			<trans-unit id="label.start" approved="yes">
+				<source>Start (HH:MM DD-MM-YYYY)</source>
+			<target state="translated">Start (UU:MM DD-MM-JJJJ)</target></trans-unit>
+			<trans-unit id="label.fileStorageIndexing.storage" approved="yes">
+				<source>Storage to index</source>
+			<target state="translated">Te indexeren opslag</target></trans-unit>
+			<trans-unit id="label.fileStorageExtraction.fileCount" approved="yes">
+				<source>Number of files per run</source>
+			<target state="translated">Aantal bestanden per keer</target></trans-unit>
+			<trans-unit id="label.fileStorageExtraction.registeredExtractors" approved="yes">
+				<source>Registered extractors</source>
+			<target state="translated">Geregistreerde extractie-services</target></trans-unit>
+			<trans-unit id="label.fileStorageExtraction.registeredExtractors.extractor" approved="yes">
+				<source>%1$s with priority %2$d</source>
+			<target state="translated">%1$s met prioriteit %2$d</target></trans-unit>
+			<trans-unit id="label.fileStorageExtraction.registeredExtractors.with_extractors" approved="yes">
+				<source>Following extractors have been registered and will be used when running this task:</source>
+			<target state="translated">De volgende extractie-services zijn geregistreerd en zullen gebruikt worden bij het uitvoeren van deze taak:</target></trans-unit>
+			<trans-unit id="label.fileStorageExtraction.registeredExtractors.without_extractors" approved="yes">
+				<source>There currently is no extractor registered. This task will have no effect!</source>
+			<target state="translated">Er is momenteel geen extractie-service geregistreerd. Deze taak heeft geen effect!</target></trans-unit>
+			<trans-unit id="label.tableGarbageCollection.allTables" approved="yes">
+				<source>Clean all available tables</source>
+			<target state="translated">Alle beschikbare tabellen leegmaken</target></trans-unit>
+			<trans-unit id="label.tableGarbageCollection.table" approved="yes">
+				<source>Table to clean up</source>
+			<target state="translated">Leeg te maken tabel</target></trans-unit>
+			<trans-unit id="label.tableGarbageCollection.additionalInformationTable" approved="yes">
+				<source>Table: %s</source>
+			<target state="translated">Tabel: %s</target></trans-unit>
+			<trans-unit id="label.tableGarbageCollection.additionalInformationAllTables" approved="yes">
+				<source>All tables</source>
+			<target state="translated">Alle tabellen</target></trans-unit>
+			<trans-unit id="label.tableGarbageCollection.numberOfDays" approved="yes">
+				<source>Delete entries older than given number of days</source>
+			<target state="translated">Items die ouder zijn dan het aangegeven aantal dagen verwijderen</target></trans-unit>
+			<trans-unit id="label.type" approved="yes">
+				<source>Type</source>
+			<target state="translated">Type</target></trans-unit>
+			<trans-unit id="label.type.recurring" approved="yes">
+				<source>Recurring</source>
+			<target state="translated">Repeterend</target></trans-unit>
+			<trans-unit id="label.type.single" approved="yes">
+				<source>Single</source>
+			<target state="translated">Enkel</target></trans-unit>
+			<trans-unit id="label.group" approved="yes">
+				<source>Task group</source>
+			<target state="translated">Taakgroep</target></trans-unit>
+			<trans-unit id="msg.addError" approved="yes">
+				<source>The task could not be added.</source>
+			<target state="translated">De taak kon niet worden toegevoegd</target></trans-unit>
+			<trans-unit id="msg.addSuccess" approved="yes">
+				<source>The task was added successfully.</source>
+			<target state="translated">De taak is succesvol toegevoegd</target></trans-unit>
+			<trans-unit id="msg.cliScript" approved="yes">
+				<source>The script to execute the Scheduler from the command line is: &lt;strong&gt;"%s scheduler"&lt;/strong&gt;.</source>
+			<target state="translated">Het script om de Taakplanner uit te voeren vanaf de opdrachtprompt is: &lt;strong&gt;"%s scheduler"&lt;/strong&gt;.</target></trans-unit>
+			<trans-unit id="msg.cliScriptExecutable" approved="yes">
+				<source>The webserver user is allowed execute this script.</source>
+			<target state="translated">Het is de webservergebruiker toegestaan dit script uit te voeren.</target></trans-unit>
+			<trans-unit id="msg.cliScriptNotExecutable" approved="yes">
+				<source>The webserver user is not allowed to execute this script.</source>
+			<target state="translated">Het is de webservergebruiker niet toegestaan dit script uit te voeren.</target></trans-unit>
+			<trans-unit id="msg.delete" approved="yes">
+				<source>Are you sure you want to delete this task?</source>
+			<target state="translated">Deze taak verwijderen?</target></trans-unit>
+			<trans-unit id="msg.deleteError" approved="yes">
+				<source>The task could not be deleted.</source>
+			<target state="translated">De taak kon niet verwijderd worden.</target></trans-unit>
+			<trans-unit id="msg.deleteSuccess" approved="yes">
+				<source>The task was successfully deleted.</source>
+			<target state="translated">De taak werd succesvol verwijderd.</target></trans-unit>
+			<trans-unit id="msg.endDateSmallerThanStartDate" approved="yes">
+				<source>The end date is before the start date.</source>
+			<target state="translated">De einddatum valt voor de startdatum</target></trans-unit>
+			<trans-unit id="msg.executed" approved="yes">
+				<source>Executed: %s</source>
+			<target state="translated">Uitgevoerd: %s</target></trans-unit>
+			<trans-unit id="msg.frequencyError" approved="yes">
+				<source>Invalid frequency. Please enter either a number of seconds or a valid cron command. The cron parser said: %1$s [code: %2$d].</source>
+			<target state="translated">Ongeldige frequentie. A.u.b. of een getal of een geldig cron-commando invoeren. De cron-parser gaf aan: %1$s [code: %2$d].</target></trans-unit>
+			<trans-unit id="msg.incompleteLastRun" approved="yes">
+				<source>The information about the last execution of the Scheduler is incomplete.</source>
+			<target state="translated">De informatie over de laatste uitvoering van de Taakplanner is incompleet.</target></trans-unit>
+			<trans-unit id="msg.infoScreenIntro" approved="yes">
+				<source>This is the list of all available tasks in this TYPO3 installation. Click on the icon at the far right to directly create a new scheduled task of the chosen type.</source>
+			<target state="translated">Dit is een lijst van alle beschikbare taken in de TYPO3 installatie. Klik op het pictogram aan de rechterzijde om direct een bepaald type taak aan te maken.</target></trans-unit>
+			<trans-unit id="msg.invalidFrequency" approved="yes">
+				<source>Invalid frequency. Please enter either a number of seconds or a valid cron command.</source>
+			<target state="translated">Ongeldige frequentie! A.u.b. of een aantal seconden of een geldig cron-commando invullen.</target></trans-unit>
+			<trans-unit id="msg.invalidSleepTime" approved="yes">
+				<source>Please enter a sleep time greater or equal to 0 (zero).</source>
+			<target state="translated">A.u.b. een pauze groter of gelijk aan 0 (nul) invullen.</target></trans-unit>
+			<trans-unit id="msg.lastRun" approved="yes">
+				<source>The Scheduler was last started (%1$s) on %2$s at %3$s and ended on %4$s at %5$s.</source>
+			<target state="translated">De Taakplanner is voor het laatst gestart (%1$s) op %2$s om %3$s en eindigde op %4$s om %5$s.</target></trans-unit>
+			<trans-unit id="msg.maynotDeleteRunningTask" approved="yes">
+				<source>A running task may not be deleted.</source>
+			<target state="translated">Een taak die uitgevoerd wordt kan niet worden verwijderd.</target></trans-unit>
+			<trans-unit id="msg.maynotEditRunningTask" approved="yes">
+				<source>A running task may not be edited.</source>
+			<target state="translated">Een taak die uitgevoerd wordt kan niet worden bewerkt.</target></trans-unit>
+			<trans-unit id="msg.maynotStopNonRunningTask" approved="yes">
+				<source>The task is not running. There are no executions to unmark.</source>
+			<target state="translated">De taak is niet actief. Er zijn geen te deselecteren taken.</target></trans-unit>
+			<trans-unit id="msg.noEmail" approved="yes">
+				<source>Please enter an email address.</source>
+			<target state="translated">Vul a.u.b. een e-mailadres in.</target></trans-unit>
+			<trans-unit id="msg.noFrequency" approved="yes">
+				<source>No frequency was defined, either as an interval or as a cron command.</source>
+			<target state="translated">Er is geen frequentie opgegeven, als of een aantal seconden of een geldig cron-commando.</target></trans-unit>
+			<trans-unit id="msg.noLastRun" approved="yes">
+				<source>The Scheduler has never yet run or the information about the last run has been lost.</source>
+			<target state="translated">De Taakplanner is nog nooit uitgevoerd of de gegevens van de laatste uitvoering zijn verloren gegaan.</target></trans-unit>
+			<trans-unit id="msg.noTasksDefined" approved="yes">
+				<source>There are currently no task classes available at all. To be able to create new tasks, you must either enable the samples provided by the Scheduler or install some other extension that relies on the Scheduler.</source>
+			<target state="translated">Er zijn momenteel geen taakklassen beschikbaar. Om een nieuwe taak aan te kunnen maken moeten of de voorbeelden die de Taakplanner biedt ingeschakeld worden of een extensie geïnstalleerd worden die de Taakplanner gebruikt.</target></trans-unit>
+			<trans-unit id="msg.noTaskClassFound" approved="yes">
+				<source>The selected task class could not be found. You should probably contact the task's developers.</source>
+			<target state="translated">De geselecteerde taakklasse kon niet gevonden worden. Neem contact op met de ontwikkelaars van de taak.</target></trans-unit>
+			<trans-unit id="msg.noTasks" approved="yes">
+				<source>No tasks defined yet.</source>
+			<target state="translated">Nog geen gedefinieerde taken.</target></trans-unit>
+			<trans-unit id="msg.notExecuted" approved="yes">
+				<source>Not executed: %s</source>
+			<target state="translated">Niet uitgevoerd: %s</target></trans-unit>
+			<trans-unit id="msg.executionFailed" approved="yes">
+				<source>Execution of task "%1$s" failed with the following message: %2$s</source>
+			<target state="translated">Het uitvoeren van de taak "%1$s" is mislukt met de volgende melding: %2$s</target></trans-unit>
+			<trans-unit id="msg.executionFailureDefault" approved="yes">
+				<source>The execution failed, but the error message could not be retrieved (it was probably too large). Sorry.</source>
+			<target state="translated">De uitvoering is mislukt, maar de foutmelding kon niet opgehaald worden (het was waarschijnlijk te groot). Sorry.</target></trans-unit>
+			<trans-unit id="msg.executionFailureReport" approved="yes">
+				<source>Execution failed: %1$d, %2$s</source>
+			<target state="translated">Uitvoering mislukt: %1$d, %2$s</target></trans-unit>
+			<trans-unit id="msg.noStartDate" approved="yes">
+				<source>Please define a start date.</source>
+			<target state="translated">A.u.b. een startdatum definiëren.</target></trans-unit>
+			<trans-unit id="msg.invalidStartDate" approved="yes">
+				<source>Start date is invalid.</source>
+			<target state="translated">Startdatum is ongeldig.</target></trans-unit>
+			<trans-unit id="msg.invalidEndDate" approved="yes">
+				<source>End date is invalid.</source>
+			<target state="translated">Einddatum is ongeldig.</target></trans-unit>
+			<trans-unit id="msg.invalidNumberOfDays" approved="yes">
+				<source>Number of days is invalid.</source>
+			<target state="translated">Het aantal dagen is ongeldig.</target></trans-unit>
+			<trans-unit id="msg.selectionOfNonExistingCacheBackends" approved="yes">
+				<source>Some of the selected cache backends do not exist. Please select valid backends only.</source>
+			<target state="translated">Sommige van de geselecteerde cache backends bestaan niet. Gelieve alleen geldige backends te selecteren.</target></trans-unit>
+			<trans-unit id="msg.noCacheBackendSelected" approved="yes">
+				<source>Please select at least one cache backend.</source>
+			<target state="translated">Gelieve tenminste een cache backend te selecteren.</target></trans-unit>
+			<trans-unit id="msg.invalidTaskClass" approved="yes">
+				<source>Class %s of the registered task could not be found. You should re-install the extension that provided it or simply delete this task.</source>
+			<target state="translated">Klasse %s van de geregistreerde taak kon niet worden gevonden. Herinstalleer de betreffende extensie of verwijder simpelweg deze extensie.</target></trans-unit>
+			<trans-unit id="msg.invalidTaskClassEdit" approved="yes">
+				<source>The current class (%s) could not be found. Change it below or consider deleting this task altogether.</source>
+			<target state="translated">De huidige klasse (%s) kon niet worden gevonden. Wijzig het hieronder of verwijder de taak in zijn geheel.</target></trans-unit>
+			<trans-unit id="msg.schedulerSetupCheck" approved="yes">
+				<source>This screen checks if the requisites for running the Scheduler as a cron job are fulfilled. It also displays information about the last run of the Scheduler.</source>
+			<target state="translated">Dit scherm geeft aan of alle benodigdheden aanwezig zijn om de Taakplanner te laten draaien. Het scherm geeft ook informatie over de laatste keer dat de Taakplanner gelopen heeft.</target></trans-unit>
+			<trans-unit id="msg.schedulerUser" approved="yes">
+				<source>The backend user "_cli_scheduler" is used by the CLI-script to log into TYPO3. This user may not have administrator privileges. The user's password is not important but should be set to a secure value for security reasons.</source>
+			<target state="translated">De backend-gebruiker "_cli_scheduler" wordt door het CLI-script gebruikt om in te loggen in TYPO3. Deze gebruiker dient geen beheerrechten te hebben. Het wachtwoord van deze gebruiker is niet belangrijk, maar dient wel 'veilig' te zijn.</target></trans-unit>
+			<trans-unit id="msg.schedulerUserFound" approved="yes">
+				<source>The backend user "_cli_scheduler" was found.</source>
+			<target state="translated">De backend-gebruiker "_cli_scheduler" werd gevonden.</target></trans-unit>
+			<trans-unit id="msg.schedulerUserFoundButDisabled" approved="yes">
+				<source>The backend user "_cli_scheduler" exists but is currently disabled.</source>
+			<target state="translated">De backend-gebruiker "_cli_scheduler" bestaat wel, maar is momenteel uitgeschakeld.</target></trans-unit>
+			<trans-unit id="msg.schedulerUserMissing" approved="yes">
+				<source>The backend user "_cli_scheduler" was not found.&lt;br/&gt;&lt;br/&gt; &lt;a href="%s" class="btn btn-danger" title="Click to create the missing user"&gt;Create the user now&lt;/a&gt;</source>
+			<target state="translated">De backend-gebruiker "_cli_scheduler" werd niet gevonden.&lt;br/&gt;&lt;br/&gt; &lt;a href="%s" class="btn brn-danger" title="Klik deze link om de gebruiker aan te maken"&gt;Gebruiker nu aanmaken&lt;/a&gt;.</target></trans-unit>
+			<trans-unit id="msg.serverTime" approved="yes">
+				<source>Current server time is %s.</source>
+			<target state="translated">Huidige tijd op de server is %s.</target></trans-unit>
+			<trans-unit id="msg.serverTimeHelp" approved="yes">
+				<source>All dates and times in the Scheduler are measured according to the server's time, as the Scheduler is run purely on the server-side.</source>
+			<target state="translated">Alle datums en tijden in de Taakplanner worden gemeten volgens de tijd op de server, omdat de Taakplanner alleen op de server loopt.</target></trans-unit>
+			<trans-unit id="msg.stop" approved="yes">
+				<source>Are you sure you want to mark this task as not running? Note that this will not stop the actual script (if unsure please refer to the manual).</source>
+			<target state="translated">Deze taak als 'niet-lopend' markeren? Het script zelf stopt hierdoor niet (bij twijfel de handleiding raadplegen).</target></trans-unit>
+			<trans-unit id="msg.stopError" approved="yes">
+				<source>The task could not be marked as non-running.</source>
+			<target state="translated">De taak kon niet als 'niet-lopend' gemarkeerd worden.</target></trans-unit>
+			<trans-unit id="msg.stopSuccess" approved="yes">
+				<source>The task was successfully marked as non-running.</source>
+			<target state="translated">De taak werd succesvol als 'niet-lopend' gemarkeerd.</target></trans-unit>
+			<trans-unit id="msg.taskNotFound" approved="yes">
+				<source>The requested task (UID: %d) was not found.</source>
+			<target state="translated">De opgevraagde taak (UID: %d) werd niet gevonden.</target></trans-unit>
+			<trans-unit id="msg.updateSuccess" approved="yes">
+				<source>The task was updated successfully.</source>
+			<target state="translated">De taak werd met succes bijgewerkt.</target></trans-unit>
+			<trans-unit id="msg.updateError" approved="yes">
+				<source>The task could not be updated.</source>
+			<target state="translated">De taak kon niet worden bijgewerkt.</target></trans-unit>
+			<trans-unit id="msg.userCreated" approved="yes">
+				<source>The "_cli_scheduler" user was created successfully.</source>
+			<target state="translated">De gebruiker "_cli_scheduler" is succesvol aangemaakt.</target></trans-unit>
+			<trans-unit id="msg.userExists" approved="yes">
+				<source>The "_cli_scheduler" user already exists. It was not created.</source>
+			<target state="translated">De gebruiker "_cli_scheduler" bestaat al en is dus niet aangemaakt.</target></trans-unit>
+			<trans-unit id="msg.userNotCreated" approved="yes">
+				<source>The creation of the "_cli_scheduler" user failed.</source>
+			<target state="translated">Het aanmaken van de gebruiker "_cli_scheduler" is mislukt.</target></trans-unit>
+			<trans-unit id="none" approved="yes">
+				<source>None</source>
+			<target state="translated">Geen</target></trans-unit>
+			<trans-unit id="status" approved="yes">
+				<source>Status</source>
+			<target state="translated">Status</target></trans-unit>
+			<trans-unit id="status.progress" approved="yes">
+				<source>Progress</source>
+			<target state="translated">Voortgang</target></trans-unit>
+			<trans-unit id="status.legend" xml:space="preserve" approved="yes">
+				<source>Status Legend</source>
+			<target state="translated">Status-legenda</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.disabled" xml:space="preserve" approved="yes">
+				<source>Disabled, will not be executed, except manually</source>
+			<target state="translated">Uitgeschakeld, zal niet worden uitgevoerd, behalve handmatig.</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.failure" xml:space="preserve" approved="yes">
+				<source>Failure! An error occurred during the last execution (move over bullet for more details)</source>
+			<target state="translated">Mislukt! Tijdens het uitvoeren van de laatste taak is er iets fout gegaan (beweeg met de muis over het opsommingsteken voor meer details)</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.late" xml:space="preserve" approved="yes">
+				<source>Late, will run with next execution</source>
+			<target state="translated">Verlaat, wordt de volgende keer uitgevoerd.</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.running" xml:space="preserve" approved="yes">
+				<source>Currently running</source>
+			<target state="translated">Loopt momenteel</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.legend.scheduled" xml:space="preserve" approved="yes">
+				<source>Scheduled, will run on next possible execution</source>
+			<target state="translated">Ingepland, wordt de volgende keer uitgevoerd.</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="status.disabled" approved="yes">
+				<source>disabled</source>
+			<target state="translated">uitgeschakeld</target></trans-unit>
+			<trans-unit id="status.failure" approved="yes">
+				<source>failure</source>
+			<target state="translated">mislukt</target></trans-unit>
+			<trans-unit id="status.late" approved="yes">
+				<source>late</source>
+			<target state="translated">verlaat</target></trans-unit>
+			<trans-unit id="status.running" approved="yes">
+				<source>running</source>
+			<target state="translated">lopend</target></trans-unit>
+			<trans-unit id="status.scheduled" approved="yes">
+				<source>scheduled</source>
+			<target state="translated">gepland</target></trans-unit>
+			<trans-unit id="task" approved="yes">
+				<source>Task</source>
+			<target state="translated">Taak</target></trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>TYPO3 Scheduler administration module</source>
+			<target state="translated">TYPO3 Taakplanner beheermodule</target></trans-unit>
+			<trans-unit id="action.run_task" approved="yes">
+				<source>Run task</source>
+			<target state="translated">Taak uitvoeren</target></trans-unit>
+			<trans-unit id="cachingFrameworkGarbageCollection.description" approved="yes">
+				<source>This task calls the garbage collection of configured caching framework caches which use one of the selected backends. This will free some space in cache backends which do not have an internal garbage collection. In case of the default database backend it is advisable to run this task once a day when the database is mostly idle.</source>
+			<target state="translated">Deze taak roept de opruimactie aan van de ingestelde caching framework caches die een van de gekozen backends gebruiken. Dit maakt wat ruimte vrij in cache backends die geen interne opruimactie hebben. In het geval van de standaard database-backend is het aan te raden dit dagelijks uit te voeren als de datbase het minst druk is.</target></trans-unit>
+			<trans-unit id="cachingFrameworkGarbageCollection.name" approved="yes">
+				<source>Caching framework garbage collection</source>
+			<target state="translated">Opruimactie voor het caching framework</target></trans-unit>
+			<trans-unit id="fileIndexing.description" approved="yes">
+				<source>Runs indexing tasks based on an indexing configuration and a storage/folder information.</source>
+			<target state="translated">Voert de indexeringstaak uit op basis van een indexeringscofniguratie en een opslag/map informatie.</target></trans-unit>
+			<trans-unit id="fileIndexing.name" approved="yes">
+				<source>[OBSOLETE] File Abstraction Layer: Indexing job</source>
+			<target state="translated">[VEROUDERD] Bestandsabstractielaag: Indexeringstaak</target></trans-unit>
+			<trans-unit id="fileStorageExtraction.description" approved="yes">
+				<source>Extracts metadata for all files in storage which have been changed since last run.</source>
+			<target state="translated">Extraheert metadata voor alle bestanden in een opslag die zijn gewijzigd sinds de vorige uitvoering.</target></trans-unit>
+			<trans-unit id="fileStorageExtraction.name" approved="yes">
+				<source>File Abstraction Layer: Extract metadata in storage</source>
+			<target state="translated">Bestandsabstractielaag: metadata in opslag extraheren</target></trans-unit>
+			<trans-unit id="fileStorageIndexing.description" approved="yes">
+				<source>Updates the Index/Cache Data of a Storage; only needed if changes to the storage are possible outside the backend (FTP, RemoteStorages).</source>
+			<target state="translated">Werkt de index/gecachete data van een Opslag bij; alleen nodig als wijzigingen in de opslag mogelijk zijn buiten de backen om (FTP, opslag op een andere service).</target></trans-unit>
+			<trans-unit id="fileStorageIndexing.name" approved="yes">
+				<source>File Abstraction Layer: Update storage index</source>
+			<target state="translated">Bestandsabstractielaag: Opslagindex bijwerken</target></trans-unit>
+			<trans-unit id="recyclerGarbageCollection.description" approved="yes">
+				<source>This task empties all "_recycler_" folders below fileadmin. This helps free some space in the file system.</source>
+			<target state="translated">Deze taak leegt alle "_recycler_" mappen onder de fileadmin. Dit zorgt voor wat ruimte in het bestandsysteem.</target></trans-unit>
+			<trans-unit id="recyclerGarbageCollection.name" approved="yes">
+				<source>Fileadmin garbage collection</source>
+			<target state="translated">Opruimactie fileadmin</target></trans-unit>
+			<trans-unit id="sleepTask.description" approved="yes">
+				<source>This task does nothing but put PHP to sleep for a number of seconds. It is designed to test multiple executions.</source>
+			<target state="translated">Deze taak doet niets behalve PHP pauzeren gedurende een aantal seconden. Het is ontworpen voor het testen van parallele uitvoering.</target></trans-unit>
+			<trans-unit id="sleepTask.name" approved="yes">
+				<source>Scheduler sleep task</source>
+			<target state="translated">Taakplanner Pauzetaak</target></trans-unit>
+			<trans-unit id="tableGarbageCollection.description" approved="yes">
+				<source>Task to delete old entries from specific tables like sys_log. Use $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['scheduler']['tasks']['tx_scheduler_TableGarbageCollection']['options']['tables'] to configure tables. Refer to the manual for more details.</source>
+			<target state="translated">Taak om oude items uit specifieke tabellen zoals sys_log te verwijderen. Gebruik $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['scheduler']['tasks']['tx_scheduler_TableGarbageCollection']['options']['tables'] voor het configureren van de tabellen. Voor verdere details, zie handleiding.</target></trans-unit>
+			<trans-unit id="tableGarbageCollection.name" approved="yes">
+				<source>Table garbage collection</source>
+			<target state="translated">Opruimactie voor tabellen</target></trans-unit>
+			<trans-unit id="testTask.description" approved="yes">
+				<source>The Scheduler test task just sends a mail to a given email address. It is designed to be used for testing purposes.</source>
+			<target state="translated">De testtaak in de Taakplanner heeft zojuist een e-mail gestuurd naar het opgegeven adres. Het is bedoeld voor testdoeleinden.</target></trans-unit>
+			<trans-unit id="testTask.name" approved="yes">
+				<source>Scheduler test task</source>
+			<target state="translated">Taakplanner testtaak</target></trans-unit>
+		</body>
+	</file>
+</xliff>

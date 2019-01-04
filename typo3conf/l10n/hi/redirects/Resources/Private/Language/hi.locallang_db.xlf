@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="hi" datatype="plaintext" original="messages" date="2018-11-29T05:30:53Z" product-name="redirects">
+		<header/>
+		<body>
+			<trans-unit id="sys_redirect">
+				<source>Redirect</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.disabled">
+				<source>Disable</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.disabled.0">
+				<source>Deactivate redirect</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.disable_hitcount">
+				<source>Disable Hit Counter</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.disable_hitcount.0">
+				<source>Disable</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.force_https">
+				<source>SSL Redirect</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.force_https.0">
+				<source>Force SSL Redirect</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.hitcount">
+				<source>Count</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.hitcountState">
+				<source>Hit Counter</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.is_regexp">
+				<source>Is regular expression?</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.is_regexp.0">
+				<source>Yes</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.keep_query_parameters">
+				<source>GET Parameters</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.keep_query_parameters.0">
+				<source>Keep GET Parameters</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.lasthiton">
+				<source>Last Hit On</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.respect_query_parameters">
+				<source>GET Parameters (source)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.respect_query_parameters.0">
+				<source>Respect GET Parameters</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.source_host">
+				<source>Source Domain</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.source_path">
+				<source>Source Path</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.target">
+				<source>Target</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.target_statuscode">
+				<source>Status Code HTTP Header</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.target_statuscode.301">
+				<source>301 Moved Permanently</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.target_statuscode.302">
+				<source>302 Found</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.target_statuscode.303">
+				<source>303 See Other</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_redirect.target_statuscode.307">
+				<source>307 Temporary Redirect</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tabs.redirectCount">
+				<source>Statistics</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

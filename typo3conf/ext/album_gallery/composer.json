@@ -1,0 +1,23 @@
+{
+    "name": "DRC/album-gallery",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "DRC\\AlbumGallery\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "DRC\\AlbumGallery\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "album_gallery": "self.version",
+        "typo3-ter/album-gallery": "self.version"
+    }
+}

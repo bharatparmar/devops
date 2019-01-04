@@ -1,0 +1,35 @@
+
+
+<f:render partial = "header"/>
+
+
+<div id="middle">
+	<div id="navigation">
+		<div id="navContent">
+			<div id="navContent_active"></div>
+				<div>
+					<f:cObject typoscriptObjectPath="lib.mainmenu" />
+					<f:cObject typoscriptObjectPath="lib.sidemenu" />
+				</div>
+		</div>
+		<div id="navDecorator">
+			<div id="aboutDecorator_active" class="decorator_active visible"></div>
+			<div id="fahrwerkssetupDecorator_active" class="decorator_active"></div>
+			<div id="seminareDecorator_active" class="decorator_active"></div>
+			<div id="dasBuchDecorator_active" class="decorator_active"></div>
+			<div id="howToDecorator_active" class="decorator_active"></div>
+			<div id="netzwerkDecorator_active" class="decorator_active"></div>
+			<div id="praezisionsfahrtenDecorator_active" class="decorator_active"></div>
+			<div id="supermotoDecorator_active" class="decorator_active"></div>
+			<div id="elektromotorraederDecorator_active" class="decorator_active"></div>
+			<div id="videosDecorator_active" class="decorator_active"></div>
+			<div id="decorator_lines" ></div>
+			<div id="decorator_BG"></div>
+		</div>
+	</div>
+	<div id="contentArea">
+		<f:cObject typoscriptObjectPath="lib.content0"/>
+	</div>
+</div>
+<f:render partial = "footer"/>
+

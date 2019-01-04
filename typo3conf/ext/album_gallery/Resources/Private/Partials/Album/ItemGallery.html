@@ -1,0 +1,23 @@
+<!-- ItemGallery.html -->
+<div class="col-md-6 col-sm-12 col-xs-12 album">
+	<div class="row">
+		<div class="left">
+			<f:link.action action="showGallery" arguments="{gallery : gallery}">
+				<f:for each="{gallery.images}" as="images" iteration="itemIteration">
+					<f:if condition="{itemIteration.isFirst}">
+						<f:then>
+							<f:image image="{images.image}" height="{settings.imageHeight}" width="{settings.imageWidth}" />
+						</f:then>
+					</f:if>
+				</f:for>
+			</f:link.action>
+		</div>
+		<div class="col-md-6 col-sm-6 col-xs-12">
+			<f:link.action action="showGallery" arguments="{gallery : gallery}">
+				{gallery.name}
+			</f:link.action>
+			<br>
+			<p><f:count>{gallery.images}</f:count> 	<f:translate key="tx_albumgallery_domain_model_images" /></p>
+		</div>
+	</div>
+</div>

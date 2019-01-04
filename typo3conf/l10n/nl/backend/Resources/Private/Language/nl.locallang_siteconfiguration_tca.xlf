@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="nl" datatype="plaintext" original="messages" date="2018-11-29T00:07:30Z" product-name="backend">
+		<header/>
+		<body>
+			<trans-unit id="site.base" approved="no">
+				<source>Entry Point</source>
+				<target state="needs-translation">Beginpunt (kan https://www.mijdomein/ of alleen / zijn, bij alleen / kan TYPO3 geen volledige URL's maken)</target>
+			</trans-unit>
+			<trans-unit id="site_base_variant.base">
+				<source>Base</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_base_variant.base.placeholder">
+				<source>www.domain.local</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_base_variant.condition">
+				<source>Condition</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_base_variant.condition.applicationContext">
+				<source>Application Context</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_base_variant.condition.environmentVariable">
+				<source>Environment Variable</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_base_variant.condition.placeholder">
+				<source>applicationContext == "Production"</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_base_variant.ctrl.title">
+				<source>Base</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site.baseVariants">
+				<source>Variants for the Entry Point</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site.ctrl.title" approved="yes">
+				<source>Site Configuration</source>
+				<target state="translated">Siteconfiguratie</target>
+			</trans-unit>
+			<trans-unit id="site.errorHandling" approved="yes">
+				<source>Error Handling</source>
+				<target state="translated">Foutafhandeling</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.ctrl.title" approved="yes">
+				<source>Error Handling</source>
+				<target state="translated">Foutafhandeling</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorCode" approved="no">
+				<source>HTTP Error Status Code</source>
+				<target state="needs-translation">Foutstatuscode</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorCode.0" approved="yes">
+				<source>any error not defined otherwise</source>
+				<target state="translated">een verder niet gedefinieerde fout</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorCode.403" approved="yes">
+				<source>403 (Forbidden)</source>
+				<target state="translated">403 (Verboden)</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorCode.404" approved="yes">
+				<source>404 (Page not found)</source>
+				<target state="translated">404 (Pagina niet gevonden)</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorCode.500" approved="yes">
+				<source>500 (Internal Server Error)</source>
+				<target state="translated">500 (Interne Server Fout)</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorCode.503" approved="yes">
+				<source>503 (Service Unavailable)</source>
+				<target state="translated">503 (Service Niet Beschikbaar)</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorContentSource" approved="no">
+				<source>Show Content from Page</source>
+				<target state="needs-translation">Inhoud tonen van pagina</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorFluidLayoutsRootPath" approved="yes">
+				<source>Fluid Layouts Root Path</source>
+				<target state="translated">Rootpad voor Fluid-lay-outs</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorFluidPartialsRootPath" approved="yes">
+				<source>Fluid Partials Root Path</source>
+				<target state="translated">Rootpad voor Fluid-partials</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorFluidTemplate" approved="yes">
+				<source>Fluid Template File</source>
+				<target state="translated">Fluid-sjabloonbestand</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorFluidTemplate.placeholder">
+				<source>EXT:my_sitepackage/Resources/Private/Templates/Sites/Error.html</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorFluidTemplatesRootPath" approved="yes">
+				<source>Fluid Templates Root Path</source>
+				<target state="translated">Rootpad voor Fluid-sjablonen</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorHandler" approved="no">
+				<source>How to handle Errors</source>
+				<target state="needs-translation">Hoe fouten af te handelen</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorHandler.fluid">
+				<source>Fluid Template</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorHandler.page" approved="no">
+				<source>Show Content from Page</source>
+				<target state="needs-translation">Inhoud tonen van pagina</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorHandler.php">
+				<source>PHP Class (must implement the PageErrorHandlerInterface)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorPhpClassFQCN" approved="yes">
+				<source>ErrorHandler Class Target (FQCN)</source>
+				<target state="translated">Doelklasse van foutafhandeling (FQCN)</target>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.errorPhpClassFQCN.placeholder">
+				<source>Vendor\ExtensionName\ErrorHandlers\GenericErrorhandler</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_errorhandling.tab.rootpaths" approved="yes">
+				<source>Root Paths (optional)</source>
+				<target state="translated">Rootpaden (optioneel)</target>
+			</trans-unit>
+			<trans-unit id="site.identifier" approved="yes">
+				<source>Site Identifier</source>
+				<target state="translated">Identifacatie voor site</target>
+			</trans-unit>
+			<trans-unit id="site_language.base" approved="no">
+				<source>Entry Point</source>
+				<target state="needs-translation">Beginpunt (hetzij https://www.mijndomein.nl/ of /nl/)</target>
+			</trans-unit>
+			<trans-unit id="site_language.ctrl.title" approved="yes">
+				<source>Language Configuration for a Site</source>
+				<target state="translated">Taalconfiguratie voor deze site</target>
+			</trans-unit>
+			<trans-unit id="site_language.direction" approved="no">
+				<source>Direction</source>
+				<target state="needs-translation">Taalrichting voor "dir"-attribuut</target>
+			</trans-unit>
+			<trans-unit id="site_language.enabled">
+				<source>Visible in Frontend</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_language.fallbacks" approved="no">
+				<source>Fallback to other Language(s) - order is important!</source>
+				<target state="needs-translation">Terugval naar andere ta(a)l(en) - volgorde is belangrijk!</target>
+			</trans-unit>
+			<trans-unit id="site_language.fallbackType" approved="no">
+				<source>Fallback Type</source>
+				<target state="needs-translation">Type terugval</target>
+			</trans-unit>
+			<trans-unit id="site_language.flag" approved="no">
+				<source>Flag icon</source>
+				<target state="needs-translation">Vlag kiezen</target>
+			</trans-unit>
+			<trans-unit id="site_language.hreflang" approved="no">
+				<source>Language Tag defined by RFC 1766 / 3066</source>
+				<target state="needs-translation">Taallabel gedefinieerd door RFC 1766/3066 voor "lang"- en "hreflang"-attributen</target>
+			</trans-unit>
+			<trans-unit id="site_language.iso-639-1" approved="no">
+				<source>Two Letter ISO Code</source>
+				<target state="needs-translation">Tweeletterige ISO-code</target>
+			</trans-unit>
+			<trans-unit id="site_language.languageId">
+				<source>Language ID</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_language.locale" approved="no">
+				<source>Locale</source>
+				<target state="needs-translation">Locale voor taal</target>
+			</trans-unit>
+			<trans-unit id="site_language.navigationTitle" approved="no">
+				<source>Navigation Title</source>
+				<target state="needs-translation">Navigatietitel (bijv. "English", "Deutsch", "Nederlands")</target>
+			</trans-unit>
+			<trans-unit id="site_language.palette.frontend">
+				<source>Frontend related</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_language.palette.locales" approved="no">
+				<source>Locales</source>
+				<target state="needs-translation">Locale voor taal</target>
+			</trans-unit>
+			<trans-unit id="site.languages" approved="no">
+				<source>Available Languages for this Site</source>
+				<target state="needs-translation">Beschikbare talen voor deze site</target>
+			</trans-unit>
+			<trans-unit id="site_language.title" approved="no">
+				<source>Title</source>
+				<target state="needs-translation">Titel van taal (bijv. "Nederlands")</target>
+			</trans-unit>
+			<trans-unit id="site_language.typo3Language" approved="no">
+				<source>Language Key for XLF Files</source>
+				<target state="needs-translation">Taalaanduiding voor XLF-bestanden</target>
+			</trans-unit>
+			<trans-unit id="site.rootPageId" approved="no">
+				<source>Root Page ID</source>
+				<target state="needs-translation">ID van rootpagina (deze pagina moet de optie voor site root hebben)</target>
+			</trans-unit>
+			<trans-unit id="site_route.ctrl.title">
+				<source>Routes</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_route.route">
+				<source>Static Route Name</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_route.route.example1">
+				<source>robots.txt</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_route.route.placeholder">
+				<source>my-custom_route</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site.routes">
+				<source>Routes</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site.routes.irreHeader.redirectsTo">
+				<source>redirects to</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_route.source">
+				<source>Page, File or URL</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_route.staticText">
+				<source>Static Text</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_route.staticText.example1">
+				<source>robots.txt Example Content</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site_route.type">
+				<source>Route Type</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="site.tab.errorHandling" approved="yes">
+				<source>Error Handling</source>
+				<target state="translated">Foutafhandeling</target>
+			</trans-unit>
+			<trans-unit id="site.tab.languages" approved="yes">
+				<source>Languages</source>
+				<target state="translated">Talen</target>
+			</trans-unit>
+			<trans-unit id="site.tab.routes">
+				<source>Static Routes</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

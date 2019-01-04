@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="nl" datatype="plaintext" original="messages" date="2018-11-29T00:03:55Z" product-name="adminpanel">
+		<header/>
+		<body>
+			<trans-unit id="displayFieldIcons" approved="yes">
+				<source>Display edit icons</source>
+				<target state="translated">Iconen voor bewerken weergeven</target>
+			</trans-unit>
+			<trans-unit id="displayIcons" approved="yes">
+				<source>Display edit panels</source>
+				<target state="translated">Panelen voor bewerken weergeven</target>
+			</trans-unit>
+			<trans-unit id="module.label" approved="yes">
+				<source>Edit</source>
+				<target state="translated">Bewerken</target>
+			</trans-unit>
+			<trans-unit id="openAB" approved="yes">
+				<source>Open TYPO3 Backend</source>
+				<target state="translated">TYPO3-backend openen</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

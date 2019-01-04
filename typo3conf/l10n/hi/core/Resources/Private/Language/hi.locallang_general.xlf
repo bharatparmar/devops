@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="hi" datatype="plaintext" original="messages" date="2018-11-29T01:09:57Z" product-name="core">
+		<header/>
+		<body>
+			<trans-unit id="LGL.address" approved="no">
+				<source>Address</source>
+				<target state="needs-translation">एड्रेस:</target>
+			</trans-unit>
+			<trans-unit id="LGL.allLanguages" approved="yes">
+				<source>[All]</source>
+				<target state="translated">[सब]</target>
+			</trans-unit>
+			<trans-unit id="LGL.any_login" approved="yes">
+				<source>Show at any login</source>
+				<target state="translated">किसीभी लोगिन पर दिखाए</target>
+			</trans-unit>
+			<trans-unit id="LGL.author" approved="no">
+				<source>Author</source>
+				<target state="needs-translation">लेखकः</target>
+			</trans-unit>
+			<trans-unit id="LGL.baseStorage" approved="no">
+				<source>Storage</source>
+				<target state="needs-translation">स्टोरेज:</target>
+			</trans-unit>
+			<trans-unit id="LGL.caption" approved="no">
+				<source>Caption</source>
+				<target state="needs-translation">कैप्शन:</target>
+			</trans-unit>
+			<trans-unit id="LGL.category" approved="no">
+				<source>Category</source>
+				<target state="needs-translation">केटेगरी</target>
+			</trans-unit>
+			<trans-unit id="LGL.city" approved="no">
+				<source>City</source>
+				<target state="needs-translation">शहर:</target>
+			</trans-unit>
+			<trans-unit id="LGL.code" approved="no">
+				<source>CODE</source>
+				<target state="needs-translation">कोड:</target>
+			</trans-unit>
+			<trans-unit id="LGL.company" approved="no">
+				<source>Company</source>
+				<target state="needs-translation">कंपनी:</target>
+			</trans-unit>
+			<trans-unit id="LGL.country" approved="no">
+				<source>Country</source>
+				<target state="needs-translation">देश:</target>
+			</trans-unit>
+			<trans-unit id="LGL.creationDate" approved="no">
+				<source>Created At</source>
+				<target state="needs-translation">क्रिएटेड एट:</target>
+			</trans-unit>
+			<trans-unit id="LGL.creationUserId" approved="no">
+				<source>Created By</source>
+				<target state="needs-translation">क्रिएटेड बाय:</target>
+			</trans-unit>
+			<trans-unit id="LGL.default_value" approved="yes">
+				<source>Default</source>
+				<target state="translated">डिफ़ॉल्ट</target>
+			</trans-unit>
+			<trans-unit id="LGL.description" approved="no">
+				<source>Description</source>
+				<target state="needs-translation">डिस्क्रिप्शन:</target>
+			</trans-unit>
+			<trans-unit id="LGL.disable" approved="no">
+				<source>Disable</source>
+				<target state="needs-translation">डिसएबल:</target>
+			</trans-unit>
+			<trans-unit id="LGL.disabled" approved="no">
+				<source>Disabled</source>
+				<target state="needs-translation">डिसएबल:</target>
+			</trans-unit>
+			<trans-unit id="LGL.disableRTE" approved="no">
+				<source>Disable Rich Text Editor</source>
+				<target state="needs-translation">डिसएबल रिच टेक्स्ट एडिटर:</target>
+			</trans-unit>
+			<trans-unit id="LGL.email" approved="no">
+				<source>Email</source>
+				<target state="needs-translation">ईमेलः</target>
+			</trans-unit>
+			<trans-unit id="LGL.enabled">
+				<source>Enabled</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.endtime" approved="no">
+				<source>Stop</source>
+				<target state="needs-translation">रूकें:</target>
+			</trans-unit>
+			<trans-unit id="LGL.error" approved="yes">
+				<source>Error!</source>
+				<target state="translated">एरर!</target>
+			</trans-unit>
+			<trans-unit id="LGL.external" approved="yes">
+				<source>External URL</source>
+				<target state="translated">एक्सटर्नल URL</target>
+			</trans-unit>
+			<trans-unit id="LGL.fax" approved="no">
+				<source>Fax</source>
+				<target state="needs-translation">फैक्सः</target>
+			</trans-unit>
+			<trans-unit id="LGL.fe_group" approved="no">
+				<source>Access</source>
+				<target state="needs-translation">एक्सेस:</target>
+			</trans-unit>
+			<trans-unit id="LGL.first_name" approved="no">
+				<source>First name</source>
+				<target state="needs-translation">फर्स्ट नाम:</target>
+			</trans-unit>
+			<trans-unit id="LGL.folder" approved="no">
+				<source>Folder</source>
+				<target state="needs-translation">फ़ोल्डर:</target>
+			</trans-unit>
+			<trans-unit id="LGL.height">
+				<source>Height</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.hidden" approved="no">
+				<source>Hide</source>
+				<target state="needs-translation">छिपाएँ</target>
+			</trans-unit>
+			<trans-unit id="LGL.hide_at_login" approved="yes">
+				<source>Hide at login</source>
+				<target state="translated">लोग इन पर छिपाये</target>
+			</trans-unit>
+			<trans-unit id="LGL.image" approved="no">
+				<source>Image</source>
+				<target state="needs-translation">इमेज:</target>
+			</trans-unit>
+			<trans-unit id="LGL.images" approved="no">
+				<source>Images</source>
+				<target state="needs-translation">इमेजिस:</target>
+			</trans-unit>
+			<trans-unit id="LGL.keywords" approved="no">
+				<source>Keywords (,)</source>
+				<target state="needs-translation">कीवर्ड्स(,):</target>
+			</trans-unit>
+			<trans-unit id="LGL.l18n_parent" approved="no">
+				<source>Transl.Orig</source>
+				<target state="needs-translation">ट्रांसल.ओरिज:</target>
+			</trans-unit>
+			<trans-unit id="LGL.language" approved="no">
+				<source>Language</source>
+				<target state="needs-translation">भाषा:</target>
+			</trans-unit>
+			<trans-unit id="LGL.lastlogin" approved="no">
+				<source>Last login</source>
+				<target state="needs-translation">अंतिम लॉगिन</target>
+			</trans-unit>
+			<trans-unit id="LGL.last_name" approved="no">
+				<source>Last name</source>
+				<target state="needs-translation">last name:</target>
+			</trans-unit>
+			<trans-unit id="LGL.layout" approved="no">
+				<source>Layout</source>
+				<target state="needs-translation">लेआउट:</target>
+			</trans-unit>
+			<trans-unit id="LGL.links" approved="yes">
+				<source>Links</source>
+				<target state="translated">लिंक्स</target>
+			</trans-unit>
+			<trans-unit id="LGL.middle_name" approved="no">
+				<source>Middle name</source>
+				<target state="needs-translation">मिडल नाम:</target>
+			</trans-unit>
+			<trans-unit id="LGL.name" approved="no">
+				<source>Name</source>
+				<target state="needs-translation">नाम:</target>
+			</trans-unit>
+			<trans-unit id="LGL.normal" approved="yes">
+				<source>Normal</source>
+				<target state="translated">सामान्य</target>
+			</trans-unit>
+			<trans-unit id="LGL.note" approved="no">
+				<source>Note</source>
+				<target state="needs-translation">नोट:</target>
+			</trans-unit>
+			<trans-unit id="LGL.parameters" approved="no">
+				<source>Parameters</source>
+				<target state="needs-translation">पेरामीटर्स:</target>
+			</trans-unit>
+			<trans-unit id="LGL.phone" approved="no">
+				<source>Phone</source>
+				<target state="needs-translation">फोनः</target>
+			</trans-unit>
+			<trans-unit id="LGL.prependAtCopy" approved="yes">
+				<source>(copy %s)</source>
+				<target state="translated">(कॉपी %s)</target>
+			</trans-unit>
+			<trans-unit id="LGL.recursive" approved="no">
+				<source>Recursive</source>
+				<target state="needs-translation">रिकर्सिव:</target>
+			</trans-unit>
+			<trans-unit id="LGL.shortcut_page" approved="no">
+				<source>Shortcut to page</source>
+				<target state="needs-translation">पेज के लिए शॉर्टकट:</target>
+			</trans-unit>
+			<trans-unit id="LGL.startingpoint" approved="no">
+				<source>Startingpoint</source>
+				<target state="needs-translation">स्टार्टिंग पॉइंट:</target>
+			</trans-unit>
+			<trans-unit id="LGL.starttime" approved="no">
+				<source>Start</source>
+				<target state="needs-translation">सुरूः</target>
+			</trans-unit>
+			<trans-unit id="LGL.subheader" approved="no">
+				<source>Subheader</source>
+				<target state="needs-translation">सब हेडर:</target>
+			</trans-unit>
+			<trans-unit id="LGL.text" approved="no">
+				<source>Text</source>
+				<target state="needs-translation">टेक्स्ट:</target>
+			</trans-unit>
+			<trans-unit id="LGL.timestamp" approved="no">
+				<source>Last Modified</source>
+				<target state="needs-translation">अंतिम बार परिवर्तित :</target>
+			</trans-unit>
+			<trans-unit id="LGL.title" approved="no">
+				<source>Title</source>
+				<target state="needs-translation">शीर्षक:</target>
+			</trans-unit>
+			<trans-unit id="LGL.title_person" approved="no">
+				<source>Title</source>
+				<target state="needs-translation">शीर्षक:</target>
+			</trans-unit>
+			<trans-unit id="LGL.type" approved="no">
+				<source>Type</source>
+				<target state="needs-translation">प्रकार:</target>
+			</trans-unit>
+			<trans-unit id="LGL.usergroups" approved="yes">
+				<source>__Usergroups:__</source>
+				<target state="translated">__यूजर ग्रुप:__</target>
+			</trans-unit>
+			<trans-unit id="LGL.versionLabel" approved="no">
+				<source>Versioning Label</source>
+				<target state="needs-translation">वर्जिनिग लेबल:</target>
+			</trans-unit>
+			<trans-unit id="LGL.visible">
+				<source>Visible</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.width">
+				<source>Width</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="LGL.www" approved="no">
+				<source>www</source>
+				<target state="needs-translation">www:</target>
+			</trans-unit>
+			<trans-unit id="LGL.zip" approved="no">
+				<source>Zipcode</source>
+				<target state="needs-translation">ज़िपकोड:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

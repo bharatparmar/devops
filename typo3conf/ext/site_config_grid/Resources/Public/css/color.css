@@ -1,0 +1,129 @@
+/************* background color *************/
+.header-nav,
+.widget h4,
+.m-title:before,
+.m-title span,
+.link-box h4,
+.footer,
+.widget-form .find-btn:hover, 
+.widget-form .find-btn:focus,
+.navbar .nav li .submenu li a:hover,
+.headline-txt,
+.s_btn,
+.s_btn:hover
+{background: #337cb8;}
+.nav-tabs > li.active > a{background: #337cb8 !important;}
+.home-tabs #highlights,
+.home-tabs .tab-pane,
+.footer h6::before,
+.footer-social li a:hover{background: #fff;}
+
+.widget,
+.header-top,
+.widget-form,
+.link-box
+{background:#f5f5f5;}
+
+.footer-social li a{background:transparent;}
+.gallery-col h4 {background: rgba(0, 0, 0, 0.7);}
+
+/************* color *************/
+.navbar .nav li .submenu li a,
+.search-form .h-search,
+.header-top .links li a,
+.news-col .news-info h3 a,
+.link-box ul li a 
+{color: #333;}
+
+.logo h1,
+.content-area,
+.linklist ul li a,
+.home-tabs .nav-tabs li a,
+.home-tabs .tab-pane,
+.linkicon-box ul li a,
+.dates
+{color: #666;}
+
+.header-top a,
+.frame-icon a{color: #ccc;}
+
+.post-box ul li a,
+.home-tabs .nav-tabs li a:hover,
+.logo h1 
+{color: #000;}
+
+.header-top,
+.header-nav,
+.header-nav .nav > li,
+.header-nav .nav > li > a,
+.widget h4,
+.widget-form .find-btn,
+.m-title span,
+.home-caption,
+.home-tabs .nav-tabs li.active a:hover,
+.footer h6,
+.gallery-col h4,
+.link-box h4,
+.footer .f-menu li a:hover,
+.nav-tabs > li.active > a,
+.footer-social li a,
+.navbar .nav li .submenu li a:hover,
+.home-caption p,
+.footer-bottom ul li a,
+.footer .f-menu > li > a,
+.footer address,
+.footer-bottom span, 
+.footer address a,
+.s_btn,
+.s_btn:hover
+{color: #fff;}
+
+.header-nav .nav > li > a:focus,
+.header-top a:hover,
+.linklist ul li a:hover,
+.post-box ul li a:hover,
+.link-box ul li a:hover,
+.frame-icon:hover a,
+.frame-icon:hover:before,
+.linkicon-box h4,
+.linkicon-box ul li a:hover,
+.news-col .news-info h3 a:hover,
+.footer-social li a:hover,
+.logo h1 span,
+.header-top .links a:hover
+{color: #337cb8;}
+
+.logo h1, .logo h1 span{color: #1c9fd5;}
+
+/* border and other css */
+.home-tabs .nav-tabs li a::after {border-color:#ccc transparent transparent; border-style: solid;border-width: 10px;}
+.home-tabs .nav-tabs li.active a::before, 
+.home-tabs .nav-tabs li.active a::after {opacity: 1; border-color: #337cb8 transparent transparent;}
+.footer-social li a,
+.nav > li > .mobile-arrow::before, .footer-bottom ul li{ border-color:#fff;}
+.footer-bottom {border-top: 1px solid #efefef;}
+.frame-icon {border: 3px solid #ccc;}
+.nav > li:hover > .mobile-arrow::before, .frame-icon:hover:before {border-color: #337cb8;}
+
+
+@media (min-width: 767px){
+	.navbar .nav > li .submenu {background: #fff;}
+	.header-nav .nav > li:hover > a{ background-color: #fff;}
+	.mobile-arrow::before {border-color: #333;}
+	.navbar .nav li .submenu  li a:hover + .mobile-arrow::before{border-color: #fff;}
+	.header-nav .nav > li > a:hover, .header-nav .nav > li.active > a, 
+	.header-nav .nav > li:hover > a{color: #337cb8;}
+}
+
+@media (max-width: 767px){
+	.header-middle { background: #fff!important;}
+	.m-menu span{background:#fff;}
+
+	.mobile-col,
+	.navbar{background: #337cb8;}
+  	.navbar .nav li .submenu li a:hover,
+  	.navbar .nav > li .submenu li a{color: #fff;}
+  	.nav > li > a:hover, .nav > li > a:focus{background-color: transparent;}
+  	/*.logo h1 {color: #000;}*/
+    .header-nav .nav > li:hover > a {background:#297127;}
+}

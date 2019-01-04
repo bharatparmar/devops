@@ -1,0 +1,6 @@
+.main-slider .slick-prev, 
+.main-slider .slick-next{background-color: transparent; width: 30px; height: 60px;}
+.main-slider .slick-next{background: url('../img/arrow-right.svg') no-repeat center center; right: 15px;}
+.main-slider .slick-prev{background: url('../img/arrow-left.svg') no-repeat center center; left: 15px;}
+.main-slider .slick-prev::before, 
+.main-slider .slick-next::before{content: ""; display: none;}

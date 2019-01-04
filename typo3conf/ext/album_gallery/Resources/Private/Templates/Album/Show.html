@@ -1,0 +1,43 @@
+<html xmlns:f="https://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers"
+	xmlns:ag="http://typo3.org/ns/DRC/AlbumGallery/ViewHelpers"
+	data-namespace-typo3-fluid="true">
+	<f:layout name="Default" />
+
+	This Template is responsible for displaying a single view for a domain object
+
+	If you modify this template, do not forget to change the overwrite settings
+	in /Configuration/ExtensionBuilder/settings.yaml:
+	  Resources:
+		Private:
+		  Templates:
+			Show.html: keep
+
+	Otherwise your changes will be overwritten the next time you save the extension in the extension builder
+
+	<f:section name="content">
+
+		<f:flashMessages />
+		<hr class="up">
+		<f:link.action action="list" ><f:translate key="tx_albumgallery_domain_model_allgallery" /></f:link.action> »
+		<f:link.action action="show" arguments="{album : album}">{bredcrumb} </f:link.action>
+		<hr class="down">
+		<f:if condition="{settings.hidePagination}">
+			<f:then>
+				<div class="row">
+					<f:for each="{galleries}" as="gallery">
+							<f:render partial="Album/ItemGallery" arguments="{gallery: gallery}" />
+					</f:for>
+				</div>
+			</f:then>
+			<f:else>
+				<ag:widget.paginate objects="{galleries}" as="paginatedgallery" configuration="{itemsPerPage:  settings.itemsPerPage}">
+					<div class="row">
+						<f:for each="{paginatedgallery}" as="gallery">
+							<f:render partial="Album/ItemGallery" arguments="{gallery: gallery}" />
+						</f:for>
+					</div>
+				</ag:widget.paginate>
+			</f:else>
+		</f:if>
+	</f:section>
+</html>

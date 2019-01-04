@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="hi" datatype="plaintext" original="messages" date="2018-11-29T00:03:36Z" product-name="adminpanel">
+		<header/>
+		<body>
+			<trans-unit id="countUserInt">
+				<source>Count of USER_INT objects</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="DocumentSize">
+				<source>Document size</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="feuserId">
+				<source>Id of logged in FE-User</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="feuserName">
+				<source>Name of logged in FE-User</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="groupList">
+				<source>Frontenduser group combination</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="imagesOnPage">
+				<source>Images on this page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="imagesSize">
+				<source>Total image file sizes</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="key">
+				<source>Key</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="module.label">
+				<source>Info</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="module.shortinfo">
+				<source>(Load Time: %s ms)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="noCache">
+				<source>Page cached</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="noCache_no">
+				<source>No</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="noCache_yes">
+				<source>Yes</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pageType">
+				<source>Page type</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pageUid">
+				<source>Page Uid</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sub.general.label">
+				<source>General</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sub.php.label">
+				<source>PHP</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sub.request.label">
+				<source>REQUEST</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="totalParsetime">
+				<source>Total parsetime</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="value">
+				<source>Value</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

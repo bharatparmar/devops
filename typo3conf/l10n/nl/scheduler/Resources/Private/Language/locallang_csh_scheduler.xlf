@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:37Z" product-name="scheduler" target-language="nl">
+    <header/>
+    <body>
+      <trans-unit id=".alttitle" xml:space="preserve" approved="yes">
+        <source>Scheduler</source>
+      <target state="translated">Taakplanner</target></trans-unit>
+      <trans-unit id=".description" xml:space="preserve" approved="yes">
+        <source>The Scheduler provides an interface to register and manage recurring or one-time tasks.</source>
+      <target state="translated">De Taakplanner biedt mogelijkheden om terugkerende en eenmalige taken te registreren en beheren.</target></trans-unit>
+      <trans-unit id=".syntax" xml:space="preserve" approved="yes">
+        <source>The Scheduler uses a single cron job to handle all registered tasks. It is thus very convenient as only one cron job needs to be set up and all task frequencies can be managed from the BE module.</source>
+      <target state="translated">De Taakplanner gebruikt een enkele cronjob om alle geregistreerde taken af te handelen. Het is zeer praktisch omdat er maar een cronjob aangemaakt hoeft te worden en de frequentie van uitvoeren van taken beheerd kan worden vanuit de BE module.</target></trans-unit>
+      <trans-unit id="task_class.alttitle" xml:space="preserve" approved="yes">
+        <source>Class of the task</source>
+      <target state="translated">Taakklasse</target></trans-unit>
+      <trans-unit id="task_class.description" xml:space="preserve" approved="yes">
+        <source>Choose a class from the list of available tasks</source>
+      <target state="translated">Kies een klasse uit de lijst met beschikbare taken</target></trans-unit>
+      <trans-unit id="task_class.details" xml:space="preserve" approved="yes">
+        <source>Some tasks are provided by the TYPO3 Core itself. Others come from extensions. See the manual to learn how to create your own tasks and register them with the Scheduler.</source>
+      <target state="translated">Sommige taken worden beschikbaar gesteld door de TYPO3 Core. Andere zijn uit extensies afkomstig. Zie de handleiding voor informatie over het maken van eigen taken en hoe ze te registreren in de Taakplanner.</target></trans-unit>
+      <trans-unit id="task_disable.alttitle" xml:space="preserve" approved="yes">
+        <source>Disable task</source>
+      <target state="translated">Taak uitschakelen</target></trans-unit>
+      <trans-unit id="task_disable.description" xml:space="preserve" approved="yes">
+        <source>Check this box to disable the automatic, scheduled execution of this task. It can still be launched manually from the BE module.</source>
+      <target state="translated">Deze optie activeren om de automatische, geplande uitvoer van deze taak uit te schakelen. Hij kan nog steeds handmatig vanuit de BE-module gestart worden.</target></trans-unit>
+      <trans-unit id="task_type.alttitle" xml:space="preserve" approved="yes">
+        <source>Type of task</source>
+      <target state="translated">Taaktype</target></trans-unit>
+      <trans-unit id="task_type.description" xml:space="preserve" approved="yes">
+        <source>Choose whether the task must happen a single time or will be repeated</source>
+      <target state="translated">Kies of de taak eenmalig of herhaald uitgevoerd moet worden.</target></trans-unit>
+      <trans-unit id="task_start.alttitle" xml:space="preserve" approved="yes">
+        <source>Start of task</source>
+      <target state="translated">Aanvang van de taak</target></trans-unit>
+      <trans-unit id="task_start.description" xml:space="preserve" approved="yes">
+        <source>Enter a start date and time for the task</source>
+      <target state="translated">Voer een startdatum en -tijd in voor de taak.</target></trans-unit>
+      <trans-unit id="task_start.details" xml:space="preserve" approved="yes">
+        <source>Date must be entered in a standard format like HH:mm dd-mm-YYYY or YYYY-mm-dd HH:mm. Natural keywords can also be used, like "now" or "tomorrow".
+Date and time must correspond to the server's time zone.</source>
+      <target state="translated">De datum moet ingevoerd worden in een standaard formaat zoals UU:mm dd-mm-JJJJ of JJJJ-mm-dd UU:mm. Gewone termen kunnen ook gebruikt worden, zoals "now" of "tomorrow" (Engelse termen).
+Datum en tijd moeten overeenkomen met de tijdzone van de server.</target></trans-unit>
+      <trans-unit id="task_end.alttitle" xml:space="preserve" approved="yes">
+        <source>End of task</source>
+      <target state="translated">Einde van de taak</target></trans-unit>
+      <trans-unit id="task_end.description" xml:space="preserve" approved="yes">
+        <source>Enter an end date and time for the task, can be blank</source>
+      <target state="translated">Voer de datum en tijd in voor het einde van de taak, kan leeg blijven.</target></trans-unit>
+      <trans-unit id="task_end.details" xml:space="preserve" approved="yes">
+        <source>Date must be entered in a standard format like HH:mm dd-mm-YYYY or YYYY-mm-dd HH:mm. Natural keywords can also be used, like "now" or "tomorrow".
+Date and time must correspond to the server's time zone.
+
+Can be left blank, if task is not supposed to end at any point.</source>
+      <target state="translated">De datum moet ingevoerd worden in een standaard formaat zoals UU:mm dd-mm-JJJJ of JJJJ-mm-dd UU:mm. Gewone termen kunnen ook gebruikt worden, zoals "now" of "tomorrow" (Engelse termen).
+Datum en tijd moeten overeenkomen met de tijdzone van de server.
+
+Kan leeg gelaten worden als de taak niet op een bepaald moment beëindigd moet worden.</target></trans-unit>
+      <trans-unit id="task_frequency.alttitle" xml:space="preserve" approved="yes">
+        <source>Frequency of task</source>
+      <target state="translated">Frequentie van de taak</target></trans-unit>
+      <trans-unit id="task_frequency.description" xml:space="preserve" approved="yes">
+        <source>Enter a frequency, either in seconds or using a cron-like syntax (minutes, hours, day of month, months and day of week)</source>
+      <target state="translated">Voer de frequentie in; hetzij in seconden of gebruikmaken van een cron-achtige syntax (minuten, uren, dag van de maand, maanden en dag van de week)</target></trans-unit>
+      <trans-unit id="task_frequency.details" xml:space="preserve" approved="yes">
+        <source>The frequency of the task can be simply entered as a number of seconds.
+
+Alternatively it is possible to use the same syntax as for cron jobs. This is simply a list of five numbers or the wildcard "*", separated by blanks. The five numbers are (in order) minutes, hours, day of month, months and day of week. Examples:
+
+*/5 * * * * means every 5 minutes
+30 22 * * * means every day at 22:30
+
+The Scheduler supports the full cron syntax.</source>
+      <target state="translated">De frequentie van de taak kan eenvoudig ingevoerd worden als een aantal seconden.
+
+Het is ook mogelijk om dezelfde syntax te gebruiken als voor cronjobs. Dit is simpelweg een lijst van vijf getallen of het algemene teken '*', gescheiden door spaties. De vijf getallen zijn (in volgorde) minuten, uren, dag van de maand, maanden en weekdag. Voorbeelden:
+
+*/5 * * * * betekent elke 5 minuten
+30 22 * * * betekent elke dag om 22:30
+
+De Taakplanner ondersteunt de complete cron syntax.</target></trans-unit>
+      <trans-unit id="task_frequency.seeAlso" xml:space="preserve" approved="yes">
+        <source>Wikipedia reference|http://en.wikipedia.org/wiki/Cron</source>
+      <target state="translated">Wikipedia|https://nl.wikipedia.org/wiki/Cronjob</target></trans-unit>
+      <trans-unit id="task_multiple.alttitle" xml:space="preserve" approved="yes">
+        <source>Multiple executions</source>
+      <target state="translated">Parallel uitgevoerd</target></trans-unit>
+      <trans-unit id="task_multiple.description" xml:space="preserve" approved="yes">
+        <source>Choose whether a task can be running several times simultaneously or not</source>
+      <target state="translated">Bepaal of een taak meerdere keren tegelijkertijd kan lopen of niet</target></trans-unit>
+      <trans-unit id="task_email.alttitle" xml:space="preserve" approved="yes">
+        <source>Email address</source>
+      <target state="translated">E-mailadres</target></trans-unit>
+      <trans-unit id="task_email.description" xml:space="preserve" approved="yes">
+        <source>Enter a recipient for the mails sent by the test task</source>
+      <target state="translated">Voer een ontvanger in voor de e-mails die deze taak verstuurt</target></trans-unit>
+      <trans-unit id="task_sleepTime.alttitle" xml:space="preserve" approved="yes">
+        <source>Sleep time</source>
+      <target state="translated">Pauze</target></trans-unit>
+      <trans-unit id="task_sleepTime.description" xml:space="preserve" approved="yes">
+        <source>Enter a number of seconds during which the task will just sleep.</source>
+      <target state="translated">Voer het aantal seconde in gedurende welke de taak moet pauzeren.</target></trans-unit>
+      <trans-unit id="task_cachingFrameworkGarbageCollection_selectedBackends.alttitle" xml:space="preserve" approved="yes">
+        <source>Select backends</source>
+      <target state="translated">Selecteer backends</target></trans-unit>
+      <trans-unit id="task_cachingFrameworkGarbageCollection_selectedBackends.description" xml:space="preserve" approved="yes">
+        <source>If a cache uses one of the selected backends, the garbage collection will be called for this cache.</source>
+      <target state="translated">Als een cache een van de gekozen backends gebruikt zal de opruimactie worden aangeroepen voor deze cache.</target></trans-unit>
+      <trans-unit id="task_tableGarbageCollection_numberOfDays.alttitle" xml:space="preserve" approved="yes">
+        <source>Number of days</source>
+      <target state="translated">Aantal dagen</target></trans-unit>
+      <trans-unit id="task_tableGarbageCollection_numberOfDays.description" xml:space="preserve" approved="yes">
+        <source>Delete rows from selected table that are older than given number of days.</source>
+      <target state="translated">Rijen uit de gekozen tabel verwijderen die ouder zijn dan het aangegeven aantal dagen.</target></trans-unit>
+      <trans-unit id="task_tableGarbageCollection_table.alttitle" xml:space="preserve" approved="yes">
+        <source>Select table</source>
+      <target state="translated">Tabel kiezen</target></trans-unit>
+      <trans-unit id="task_tableGarbageCollection_table.description" xml:space="preserve" approved="yes">
+        <source>Select one of the registered tables to be cleaned up with this task.</source>
+      <target state="translated">Kies een van de geregistreerde tabellen om op te schonen met deze taak.</target></trans-unit>
+      <trans-unit id="task_tableGarbageCollection_allTables.alttitle" xml:space="preserve" approved="yes">
+        <source>Clean up all tables</source>
+      <target state="translated">Alle tabellen opschonen</target></trans-unit>
+      <trans-unit id="task_tableGarbageCollection_allTables.description" xml:space="preserve" approved="yes">
+        <source>If selected, all configured tables are cleaned. The selection below is ignored.</source>
+      <target state="translated">Indien geselecteerd worden alle geconfigureerde tabellen opgeschoond. De selectie hieronder wordt dan genegeerd.</target></trans-unit>
+      <trans-unit id="task_recyclerGarbageCollection_numberOfDays.alttitle" xml:space="preserve" approved="yes">
+        <source>Number of days</source>
+      <target state="translated">Aantal dagen</target></trans-unit>
+      <trans-unit id="task_recyclerGarbageCollection_numberOfDays.description" xml:space="preserve" approved="yes">
+        <source>Delete files in _recycler_ folders that are older than the given number of days.</source>
+      <target state="translated">Bestanden in _recycler_ mappen verwijderen die ouder zijn dan het aangegeven aantal dagen.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

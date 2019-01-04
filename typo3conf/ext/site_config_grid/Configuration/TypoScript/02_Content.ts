@@ -1,0 +1,18 @@
+# Setup each colPos blocks.
+lib.content0 < styles.content.get
+lib.content0.select.where = colPos = 0
+
+lib.content1 < styles.content.get
+lib.content1.select.where = colPos = 1
+
+lib.content2 < styles.content.get
+lib.content2.select.where = colPos = 2
+
+lib.content3 < styles.content.get
+lib.content3.select.where = colPos = 3
+
+lib.content4 < styles.content.get
+lib.content4.select.where = colPos = 4
+
+lib.content5 < styles.content.get
+lib.content5.select.where = colPos = 5

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="nl" datatype="plaintext" original="messages" date="2018-11-29T02:02:35Z" product-name="filelist">
+		<header/>
+		<body>
+			<trans-unit id="flashmessage.no_results" approved="yes">
+				<source>No results found</source>
+				<target state="translated">Geen resultaten gevonden</target>
+			</trans-unit>
+			<trans-unit id="search" approved="yes">
+				<source>Search</source>
+				<target state="translated">Zoeken</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

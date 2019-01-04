@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="hi" datatype="plaintext" original="messages" date="2018-11-28T06:46:48Z" product-name="sys_note">
+		<header/>
+		<body>
+			<trans-unit id="sys_note" approved="yes">
+				<source>Internal note</source>
+				<target state="translated">आंतरिक नोट्स</target>
+			</trans-unit>
+			<trans-unit id="sys_note.category.I.1" approved="yes">
+				<source>Instructions</source>
+				<target state="translated">निर्देश</target>
+			</trans-unit>
+			<trans-unit id="sys_note.category.I.2" approved="yes">
+				<source>Template</source>
+				<target state="translated">टेम्पलेट</target>
+			</trans-unit>
+			<trans-unit id="sys_note.category.I.3" approved="yes">
+				<source>Notes</source>
+				<target state="translated">टिप्पणी, नोट्स</target>
+			</trans-unit>
+			<trans-unit id="sys_note.category.I.4" approved="yes">
+				<source>To-do</source>
+				<target state="translated">कार्य-सूची</target>
+			</trans-unit>
+			<trans-unit id="sys_note.message" approved="no">
+				<source>Message</source>
+				<target state="needs-translation">संदेश:</target>
+			</trans-unit>
+			<trans-unit id="sys_note.personal" approved="no">
+				<source>Personal</source>
+				<target state="needs-translation">व्यक्तिगत:</target>
+			</trans-unit>
+			<trans-unit id="sys_note.position">
+				<source>Position</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_note.position.bottom">
+				<source>Bottom</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_note.position.top">
+				<source>Top</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_note.subject" approved="no">
+				<source>Subject</source>
+				<target state="needs-translation">विषय:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

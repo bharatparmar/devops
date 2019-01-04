@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="hi" datatype="plaintext" original="messages" date="2018-11-29T00:03:36Z" product-name="adminpanel">
+		<header/>
+		<body>
+			<trans-unit id="cache.clear_current">
+				<source>Clear cache of current page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="cache.clear_pages">
+				<source>Clear frontend cache</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="cache.no_cache">
+				<source>No caching</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="module.label">
+				<source>Cache</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

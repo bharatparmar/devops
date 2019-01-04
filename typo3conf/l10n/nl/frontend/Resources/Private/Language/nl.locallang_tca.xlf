@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="nl" datatype="plaintext" original="messages" date="2018-11-29T02:35:00Z" product-name="frontend">
+		<header/>
+		<body>
+			<trans-unit id="backend_layout" approved="yes">
+				<source>Backend Layout</source>
+				<target state="translated">Backend Lay-out</target>
+			</trans-unit>
+			<trans-unit id="backend_layout.config" approved="yes">
+				<source>Config</source>
+				<target state="translated">Config</target>
+			</trans-unit>
+			<trans-unit id="backend_layout.description" approved="yes">
+				<source>Description</source>
+				<target state="translated">Omschrijving</target>
+			</trans-unit>
+			<trans-unit id="backend_layout.icon" approved="yes">
+				<source>Icon</source>
+				<target state="translated">Icoon</target>
+			</trans-unit>
+			<trans-unit id="backend_layout.tabs.access" approved="yes">
+				<source>Access</source>
+				<target state="translated">Toegang</target>
+			</trans-unit>
+			<trans-unit id="backend_layout.tabs.extended" approved="yes">
+				<source>Extended</source>
+				<target state="translated">Uitgebreid</target>
+			</trans-unit>
+			<trans-unit id="backend_layout.title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Titel</target>
+			</trans-unit>
+			<trans-unit id="backend_layout.wizard" approved="yes">
+				<source>Wizard</source>
+				<target state="translated">Wizard</target>
+			</trans-unit>
+			<trans-unit id="fe_groups" approved="yes">
+				<source>Website Usergroup</source>
+				<target state="translated">Website gebruikersgroep</target>
+			</trans-unit>
+			<trans-unit id="fe_groups.lockToDomain" approved="no">
+				<source>Lock to Domain</source>
+				<target state="needs-translation">Aan domein versleutelen:</target>
+			</trans-unit>
+			<trans-unit id="fe_groups.subgroup" approved="no">
+				<source>Subgroups</source>
+				<target state="needs-translation">Subgroepen:</target>
+			</trans-unit>
+			<trans-unit id="fe_groups.tabs.extended" approved="yes">
+				<source>Extended</source>
+				<target state="translated">Uitgebreid</target>
+			</trans-unit>
+			<trans-unit id="fe_groups.tabs.options" approved="yes">
+				<source>Options</source>
+				<target state="translated">Opties</target>
+			</trans-unit>
+			<trans-unit id="fe_groups.title" approved="no">
+				<source>Group Title</source>
+				<target state="needs-translation">Groepstitel:</target>
+			</trans-unit>
+			<trans-unit id="fe_users" approved="yes">
+				<source>Website User</source>
+				<target state="translated">Websitegebruiker</target>
+			</trans-unit>
+			<trans-unit id="fe_users.lockToDomain" approved="no">
+				<source>Lock to Domain</source>
+				<target state="needs-translation">Aan domein versleutelen:</target>
+			</trans-unit>
+			<trans-unit id="fe_users.password" approved="no">
+				<source>Password</source>
+				<target state="needs-translation">Wachtwoord:</target>
+			</trans-unit>
+			<trans-unit id="fe_users.tabs.access" approved="yes">
+				<source>Access</source>
+				<target state="translated">Toegang</target>
+			</trans-unit>
+			<trans-unit id="fe_users.tabs.extended" approved="yes">
+				<source>Extended</source>
+				<target state="translated">Uitgebreid</target>
+			</trans-unit>
+			<trans-unit id="fe_users.tabs.options" approved="yes">
+				<source>Options</source>
+				<target state="translated">Opties</target>
+			</trans-unit>
+			<trans-unit id="fe_users.tabs.personelData" approved="yes">
+				<source>Personal Data</source>
+				<target state="translated">Persoonlijke gegevens</target>
+			</trans-unit>
+			<trans-unit id="fe_users.usergroup" approved="no">
+				<source>Groups</source>
+				<target state="needs-translation">Groepen:</target>
+			</trans-unit>
+			<trans-unit id="fe_users.username" approved="no">
+				<source>Username</source>
+				<target state="needs-translation">Gebruikersnaam:</target>
+			</trans-unit>
+			<trans-unit id="mod_tx_cms_webinfo_lang" approved="yes">
+				<source>Localization Overview</source>
+				<target state="translated">Vertalingenoverzicht</target>
+			</trans-unit>
+			<trans-unit id="mod_tx_cms_webinfo_page" approved="yes">
+				<source>Pagetree Overview</source>
+				<target state="translated">Paginaboom overzicht</target>
+			</trans-unit>
+			<trans-unit id="no_mount_pid">
+				<source>No Mount Point is set</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="pages.abstract" approved="no">
+				<source>Abstract</source>
+				<target state="needs-translation">Samenvatting:</target>
+			</trans-unit>
+			<trans-unit id="pages.abstract_formlabel" approved="yes">
+				<source>Abstract</source>
+				<target state="translated">Samenvatting</target>
+			</trans-unit>
+			<trans-unit id="pages.alias" approved="no">
+				<source>Alias</source>
+				<target state="needs-translation">Alias:</target>
+			</trans-unit>
+			<trans-unit id="pages.alias_formlabel" approved="yes">
+				<source>URL Alias</source>
+				<target state="translated">URL Alias</target>
+			</trans-unit>
+			<trans-unit id="pages.author_email_formlabel" approved="yes">
+				<source>Author Email</source>
+				<target state="translated">E-mail auteur</target>
+			</trans-unit>
+			<trans-unit id="pages.author_formlabel" approved="yes">
+				<source>Author Name</source>
+				<target state="translated">Naam auteur</target>
+			</trans-unit>
+			<trans-unit id="pages.backend_layout.default" approved="yes">
+				<source>Default</source>
+				<target state="translated">Standaard</target>
+			</trans-unit>
+			<trans-unit id="pages.backend_layout_formlabel" approved="yes">
+				<source>Backend Layout (this page only)</source>
+				<target state="translated">Backend lay-out (alleen deze pagina)</target>
+			</trans-unit>
+			<trans-unit id="pages.backend_layout_next_level_formlabel" approved="yes">
+				<source>Backend Layout (subpages of this page)</source>
+				<target state="translated">Backend lay-out (subpagina's van deze pagina)</target>
+			</trans-unit>
+			<trans-unit id="pages.backend_layout.none" approved="yes">
+				<source>None</source>
+				<target state="translated">Geen</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_tags" approved="no">
+				<source>Cache Tags</source>
+				<target state="needs-translation">Cache Tags:</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout" approved="no">
+				<source>Cache Expires</source>
+				<target state="needs-translation">Cache verloopt:</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout_formlabel" approved="yes">
+				<source>Cache Lifetime</source>
+				<target state="translated">Cache levensduur</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.1" approved="yes">
+				<source>1 min</source>
+				<target state="translated">1 min.</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.10" approved="yes">
+				<source>1 month</source>
+				<target state="translated">1 maand</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.2" approved="yes">
+				<source>5 min</source>
+				<target state="translated">5 min.</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.3" approved="yes">
+				<source>15 min</source>
+				<target state="translated">15 min.</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.4" approved="yes">
+				<source>30 min</source>
+				<target state="translated">30 min.</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.5" approved="yes">
+				<source>1 hour</source>
+				<target state="translated">1 uur</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.6" approved="yes">
+				<source>4 hours</source>
+				<target state="translated">4 uur</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.7" approved="yes">
+				<source>1 day</source>
+				<target state="translated">1 dag</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.8" approved="yes">
+				<source>2 days</source>
+				<target state="translated">2 dagen</target>
+			</trans-unit>
+			<trans-unit id="pages.cache_timeout.I.9" approved="yes">
+				<source>7 days</source>
+				<target state="translated">7 dagen</target>
+			</trans-unit>
+			<trans-unit id="pages.content_from_pid" approved="no">
+				<source>Show content from this page instead</source>
+				<target state="needs-translation">Toon inhoud van deze pagina in de plaats:</target>
+			</trans-unit>
+			<trans-unit id="pages.content_from_pid_formlabel" approved="yes">
+				<source>Show Content from Page</source>
+				<target state="translated">Toon inhoud van pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.description_formlabel" approved="yes">
+				<source>Description</source>
+				<target state="translated">Omschrijving</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.div.link" approved="yes">
+				<source>Link</source>
+				<target state="translated">Link</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.div.page" approved="yes">
+				<source>Page</source>
+				<target state="translated">Pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.div.special" approved="yes">
+				<source>Special</source>
+				<target state="translated">Speciaal</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype_formlabel" approved="yes">
+				<source>Type</source>
+				<target state="translated">Type</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.0" approved="yes">
+				<source>Advanced</source>
+				<target state="translated">Geavanceerd</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.2" approved="yes">
+				<source>Shortcut</source>
+				<target state="translated">Snelkoppeling</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.3" approved="yes">
+				<source>Not in Menu</source>
+				<target state="translated">Niet in Menu</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.4" approved="yes">
+				<source>Backend User Section</source>
+				<target state="translated">Backend-gebruikergebied</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.5" approved="yes">
+				<source>Mount Point</source>
+				<target state="translated">Koppelpunt</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.7" approved="yes">
+				<source>Menu Separator</source>
+				<target state="translated">Menu-scheider</target>
+			</trans-unit>
+			<trans-unit id="pages.doktype.I.8" approved="yes">
+				<source>Link to External URL</source>
+				<target state="translated">Link naar externe URL</target>
+			</trans-unit>
+			<trans-unit id="pages.editlock_formlabel" approved="yes">
+				<source>Editable for Admins Only</source>
+				<target state="translated">Alleen bewerkbaar voor Admins</target>
+			</trans-unit>
+			<trans-unit id="pages.endtime_formlabel" approved="yes">
+				<source>Expiration Date</source>
+				<target state="translated">Verloopdatum</target>
+			</trans-unit>
+			<trans-unit id="pages.extendToSubpages" approved="no">
+				<source>Include Subpages</source>
+				<target state="needs-translation">Voeg subpagina's toe:</target>
+			</trans-unit>
+			<trans-unit id="pages.extendToSubpages_formlabel" approved="yes">
+				<source>Extend to Subpages</source>
+				<target state="translated">Verlengen naar subpagina's</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_group_formlabel" approved="yes">
+				<source>Usergroup Access Rights</source>
+				<target state="translated">Gebruikersgroep toegangsrechten</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode" approved="no">
+				<source>Login Mode</source>
+				<target state="needs-translation">Login modus:</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode.disable" approved="yes">
+				<source>Disable</source>
+				<target state="translated">Uitschakelen</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode.disableAll" approved="yes">
+				<source>Disable login</source>
+				<target state="translated">Aanmelden uitschakelen</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode.disableGroups" approved="yes">
+				<source>Enable user login, Disable usergroup login</source>
+				<target state="translated">Schakel gebruikers-aanmelding in, schakel gebruikersgroep-aanmelding uit</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode.enable" approved="yes">
+				<source>Enable login</source>
+				<target state="translated">Aanmelden inschakelen</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode.enableAgain" approved="yes">
+				<source>Re-Enable login</source>
+				<target state="translated">Opnieuw aanmelden</target>
+			</trans-unit>
+			<trans-unit id="pages.fe_login_mode_formlabel" approved="yes">
+				<source>Login Behaviour</source>
+				<target state="translated">Aanmeldgedrag</target>
+			</trans-unit>
+			<trans-unit id="pages.hidden" approved="no">
+				<source>Hide page</source>
+				<target state="needs-translation">Pagina verbergen:</target>
+			</trans-unit>
+			<trans-unit id="pages.hidden_checkbox_1_formlabel" approved="yes">
+				<source>Disable</source>
+				<target state="translated">Uitschakelen</target>
+			</trans-unit>
+			<trans-unit id="pages.hidden_formlabel" approved="yes">
+				<source>Page</source>
+				<target state="translated">Pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.is_siteroot" approved="no">
+				<source>Is Root of Website</source>
+				<target state="needs-translation">Is root van website:</target>
+			</trans-unit>
+			<trans-unit id="pages.is_siteroot_formlabel" approved="yes">
+				<source>Use as Root Page</source>
+				<target state="translated">Gebruik als rootpagina</target>
+			</trans-unit>
+			<trans-unit id="pages.keywords_formlabel" approved="yes">
+				<source>Keywords</source>
+				<target state="translated">Sleutelwoorden</target>
+			</trans-unit>
+			<trans-unit id="pages.l18n_cfg" approved="no">
+				<source>Localization Settings</source>
+				<target state="needs-translation">Vertalings-instellingen</target>
+			</trans-unit>
+			<trans-unit id="pages.l18n_cfg_formlabel" approved="yes">
+				<source>Localization</source>
+				<target state="translated">Vertalen</target>
+			</trans-unit>
+			<trans-unit id="pages.l18n_cfg.I.1" approved="yes">
+				<source>Hide default translation of page</source>
+				<target state="translated">Verberg standaard vertaling van pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.l18n_cfg.I.2" approved="yes">
+				<source>Hide page if no translation for current language exists</source>
+				<target state="translated">Verberg pagina als er geen vertaling voor huidige taal bestaat</target>
+			</trans-unit>
+			<trans-unit id="pages.l18n_cfg.I.2a" approved="yes">
+				<source>Show page even if no translation exists</source>
+				<target state="translated">Laat pagina zien ook als er geen vertaling bestaat</target>
+			</trans-unit>
+			<trans-unit id="pages_language_overlay" approved="yes">
+				<source>Alternative Page Language</source>
+				<target state="translated">Alternatieve paginataal</target>
+			</trans-unit>
+			<trans-unit id="pages.lastUpdated" approved="no">
+				<source>Last Updated</source>
+				<target state="needs-translation">Laatst bijgewerkt:</target>
+			</trans-unit>
+			<trans-unit id="pages.lastUpdated_formlabel" approved="yes">
+				<source>Last Update</source>
+				<target state="translated">Laatst bijgewerkt:</target>
+			</trans-unit>
+			<trans-unit id="pages.layout_formlabel" approved="yes">
+				<source>Frontend Layout</source>
+				<target state="translated">Frontend Layout</target>
+			</trans-unit>
+			<trans-unit id="pages.layout.I.1" approved="yes">
+				<source>Layout 1</source>
+				<target state="translated">Lay-out 1</target>
+			</trans-unit>
+			<trans-unit id="pages.layout.I.2" approved="yes">
+				<source>Layout 2</source>
+				<target state="translated">Lay-out 2</target>
+			</trans-unit>
+			<trans-unit id="pages.layout.I.3" approved="yes">
+				<source>Layout 3</source>
+				<target state="translated">Lay-out 3</target>
+			</trans-unit>
+			<trans-unit id="pages.media" approved="no">
+				<source>Files</source>
+				<target state="needs-translation">Bestanden:</target>
+			</trans-unit>
+			<trans-unit id="pages.media_formlabel" approved="yes">
+				<source>Media</source>
+				<target state="translated">Media</target>
+			</trans-unit>
+			<trans-unit id="pages.module" approved="no">
+				<source>Contains Plugin</source>
+				<target state="needs-translation">Bevat plug-in:</target>
+			</trans-unit>
+			<trans-unit id="pages.module_formlabel" approved="yes">
+				<source>Contains Plugin</source>
+				<target state="translated">Bevat plug-in</target>
+			</trans-unit>
+			<trans-unit id="pages.module.I.1" approved="yes">
+				<source>Shop</source>
+				<target state="translated">Winkel</target>
+			</trans-unit>
+			<trans-unit id="pages.module.I.2" approved="yes">
+				<source>Board</source>
+				<target state="translated">Bord</target>
+			</trans-unit>
+			<trans-unit id="pages.module.I.3" approved="yes">
+				<source>News</source>
+				<target state="translated">Nieuws</target>
+			</trans-unit>
+			<trans-unit id="pages.module.I.4" approved="yes">
+				<source>Website Users</source>
+				<target state="translated">Websitegebruikers</target>
+			</trans-unit>
+			<trans-unit id="pages.module.I.5" approved="yes">
+				<source>Direct Mail</source>
+				<target state="translated">Directe mail</target>
+			</trans-unit>
+			<trans-unit id="pages.module.I.6" approved="yes">
+				<source>Approvals</source>
+				<target state="translated">Goedkeuringen</target>
+			</trans-unit>
+			<trans-unit id="pages.mount_pid" approved="no">
+				<source>Mount Point of</source>
+				<target state="needs-translation">Koppelpunt (geavanceerd):</target>
+			</trans-unit>
+			<trans-unit id="pages.mount_pid_formlabel" approved="yes">
+				<source>Mounted page</source>
+				<target state="translated">Gekoppelde pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.mount_pid_ol" approved="no">
+				<source>Mount Point redirects to mounted page</source>
+				<target state="needs-translation">Substituut koppelpunt (deze pagina) met gekoppelde pagina:</target>
+			</trans-unit>
+			<trans-unit id="pages.mount_pid_ol_formlabel" approved="no">
+				<source>Mount Point Display Option</source>
+				<target state="needs-translation">Laat inhoud zien van</target>
+			</trans-unit>
+			<trans-unit id="pages.mount_pid_ol.I.0" approved="no">
+				<source>Show this page</source>
+				<target state="needs-translation">Deze pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.mount_pid_ol.I.1" approved="no">
+				<source>Show the mounted page</source>
+				<target state="needs-translation">Gekoppelde pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.nav_hide" approved="no">
+				<source>Hide in Menu</source>
+				<target state="needs-translation">Verberg in menu:</target>
+			</trans-unit>
+			<trans-unit id="pages.nav_hide_checkbox_1_formlabel" approved="yes">
+				<source>Hide</source>
+				<target state="translated">Verbergen</target>
+			</trans-unit>
+			<trans-unit id="pages.nav_hide_formlabel" approved="yes">
+				<source>In Menus</source>
+				<target state="translated">In menu's</target>
+			</trans-unit>
+			<trans-unit id="pages.nav_title" approved="no">
+				<source>Navigation Title</source>
+				<target state="needs-translation">Navigatietitel:</target>
+			</trans-unit>
+			<trans-unit id="pages.nav_title_formlabel" approved="yes">
+				<source>Alternative Navigation Title</source>
+				<target state="translated">Alternatieve navigatietitel</target>
+			</trans-unit>
+			<trans-unit id="pages.newUntil" approved="no">
+				<source>'New' Until</source>
+				<target state="needs-translation">'Nieuw' tot:</target>
+			</trans-unit>
+			<trans-unit id="pages.newUntil_formlabel" approved="yes">
+				<source>Mark as 'New' Until</source>
+				<target state="translated">Markeer als 'Nieuw' tot</target>
+			</trans-unit>
+			<trans-unit id="pages.no_search" approved="no">
+				<source>No Search</source>
+				<target state="needs-translation">Geen zoekopdracht:</target>
+			</trans-unit>
+			<trans-unit id="pages.no_search_checkbox_1_formlabel" approved="yes">
+				<source>Disable</source>
+				<target state="translated">Uitschakelen</target>
+			</trans-unit>
+			<trans-unit id="pages.no_search_formlabel" approved="yes">
+				<source>Include in Search</source>
+				<target state="translated">Meetellen in zoekopdracht</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.abstract" approved="yes">
+				<source>Abstract</source>
+				<target state="translated">Samenvatting</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.access" approved="yes">
+				<source>Publish Dates and Access Rights</source>
+				<target state="translated">Publiceerdata en Toegangsrechten</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.caching" approved="yes">
+				<source>Caching</source>
+				<target state="translated">Bufferen</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.config" approved="yes">
+				<source>TypoScript Configuration</source>
+				<target state="translated">TypoScript Configuratie</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.editorial" approved="yes">
+				<source>Editorial</source>
+				<target state="translated">Redactioneel</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.language" approved="yes">
+				<source>Language</source>
+				<target state="translated">Taal</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.layout" approved="yes">
+				<source>Page Layout</source>
+				<target state="translated">Pagina-indeling</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.links" approved="yes">
+				<source>Links to this Page</source>
+				<target state="translated">Links naar deze pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.media" approved="yes">
+				<source>Files</source>
+				<target state="translated">Bestanden</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.metatags" approved="yes">
+				<source>Meta Tags</source>
+				<target state="translated">Meta Tags</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.miscellaneous" approved="yes">
+				<source>Miscellaneous</source>
+				<target state="translated">Diversen</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.module" approved="yes">
+				<source>Use as Container</source>
+				<target state="translated">Gebruik als container</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.replace" approved="yes">
+				<source>Replace Content</source>
+				<target state="translated">Vervang Inhoud</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.standard" approved="yes">
+				<source>Page</source>
+				<target state="translated">Pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.storage" approved="yes">
+				<source>General Record Storage Page</source>
+				<target state="translated">Algemene recordopslagpagina</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Titel</target>
+			</trans-unit>
+			<trans-unit id="pages.palettes.visibility" approved="yes">
+				<source>Visibility</source>
+				<target state="translated">Zichtbaarheid</target>
+			</trans-unit>
+			<trans-unit id="pages.php_tree_stop_formlabel" approved="no">
+				<source>Hide child pages in page tree</source>
+				<target state="needs-translation">Stop paginaboom</target>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_formlabel" approved="yes">
+				<source>Shortcut Target</source>
+				<target state="translated">Snelkoppeling doel</target>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_mode" approved="no">
+				<source>Shortcut Mode</source>
+				<target state="needs-translation">Snelkoppelingsmodus:</target>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_mode_formlabel" approved="yes">
+				<source>Shortcut Mode</source>
+				<target state="translated">Snelkoppelingsmodus</target>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_mode.I.0" approved="yes">
+				<source>Selected page</source>
+				<target state="translated">Geselecteerde pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_mode.I.1" approved="yes">
+				<source>First subpage of selected/current page</source>
+				<target state="translated">Eerste subpagina van geselecteerde/huidige pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_mode.I.2" approved="yes">
+				<source>Random subpage of selected/current page</source>
+				<target state="translated">Willekeurige subpagina van geselecteerde/huidige pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.shortcut_mode.I.3" approved="yes">
+				<source>Parent page of selected/current page</source>
+				<target state="translated">Ouderpagina van geselecteerde/huidige pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.starttime_formlabel" approved="yes">
+				<source>Publish Date</source>
+				<target state="translated">Publicatiedatum</target>
+			</trans-unit>
+			<trans-unit id="pages.storage_pid_formlabel" approved="yes">
+				<source>Page</source>
+				<target state="translated">Pagina</target>
+			</trans-unit>
+			<trans-unit id="pages.subtitle" approved="no">
+				<source>Subtitle</source>
+				<target state="needs-translation">Ondertiteling:</target>
+			</trans-unit>
+			<trans-unit id="pages.subtitle_formlabel" approved="yes">
+				<source>Subtitle</source>
+				<target state="translated">Ondertitel</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.access" approved="yes">
+				<source>Access</source>
+				<target state="translated">Toegang</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.appearance" approved="yes">
+				<source>Appearance</source>
+				<target state="translated">Weergave</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.behaviour" approved="yes">
+				<source>Behaviour</source>
+				<target state="translated">Gedrag</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.extended" approved="yes">
+				<source>Extended</source>
+				<target state="translated">Uitgebreid</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.files" approved="yes">
+				<source>Resources</source>
+				<target state="translated">Bronnen</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.metadata" approved="yes">
+				<source>Metadata</source>
+				<target state="translated">Metagegevens</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.mount" approved="yes">
+				<source>Mount</source>
+				<target state="translated">Koppelen</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.options" approved="yes">
+				<source>Options</source>
+				<target state="translated">Opties</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.resources" approved="yes">
+				<source>Resources</source>
+				<target state="translated">Bronnen</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.shortcut" approved="yes">
+				<source>Shortcut</source>
+				<target state="translated">Snelkoppeling</target>
+			</trans-unit>
+			<trans-unit id="pages.tabs.url" approved="yes">
+				<source>URL</source>
+				<target state="translated">URL</target>
+			</trans-unit>
+			<trans-unit id="pages.target" approved="no">
+				<source>Target</source>
+				<target state="needs-translation">Doel:</target>
+			</trans-unit>
+			<trans-unit id="pages.target_formlabel" approved="yes">
+				<source>Link Target</source>
+				<target state="translated">Verwijzingsdoel:</target>
+			</trans-unit>
+			<trans-unit id="pages.title_formlabel" approved="yes">
+				<source>Page Title</source>
+				<target state="translated">Paginatitel</target>
+			</trans-unit>
+			<trans-unit id="pages.TSconfig_formlabel" approved="yes">
+				<source>Page TSConfig</source>
+				<target state="translated">Page TSconfig</target>
+			</trans-unit>
+			<trans-unit id="pages.tsconfig_includes" approved="no">
+				<source>Include Page TSConfig (from extensions)</source>
+				<target state="needs-translation">Page TSConfig (van extensies) includeren:</target>
+			</trans-unit>
+			<trans-unit id="pages.url" approved="no">
+				<source>URL</source>
+				<target state="needs-translation">URL:</target>
+			</trans-unit>
+			<trans-unit id="pages.url_formlabel" approved="yes">
+				<source>URL</source>
+				<target state="translated">URL</target>
+			</trans-unit>
+			<trans-unit id="sys_domain" approved="yes">
+				<source>Domain</source>
+				<target state="translated">Domein</target>
+			</trans-unit>
+			<trans-unit id="sys_domain.domainName" approved="no">
+				<source>Domain</source>
+				<target state="needs-translation">Domein:</target>
+			</trans-unit>
+			<trans-unit id="sys_template" approved="yes">
+				<source>Template</source>
+				<target state="translated">Sjabloon</target>
+			</trans-unit>
+			<trans-unit id="sys_template.basedOn" approved="no">
+				<source>Include Basis Template</source>
+				<target state="needs-translation">Basissjabloon bevatten:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.basedOn_add" approved="yes">
+				<source>Add New Basis Template</source>
+				<target state="translated">Voeg nieuw basissjabloon toe</target>
+			</trans-unit>
+			<trans-unit id="sys_template.basedOn_edit">
+				<source>Edit template</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="sys_template.clear" approved="no">
+				<source>Clear</source>
+				<target state="needs-translation">Wissen:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.config" approved="no">
+				<source>Setup</source>
+				<target state="needs-translation">Instellingen:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.constants" approved="no">
+				<source>Constants</source>
+				<target state="needs-translation">Constante:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.description" approved="no">
+				<source>Description</source>
+				<target state="needs-translation">Omschrijving:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.editorcfg" approved="no">
+				<source>Backend Editor Configuration</source>
+				<target state="needs-translation">Backend bewerker configuratie:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.includeStaticAfterBasedOn" approved="no">
+				<source>Include Static Templates After Basis Templates</source>
+				<target state="needs-translation">Statische sjablonen na basissjablonen includeren</target>
+			</trans-unit>
+			<trans-unit id="sys_template.include_static_file" approved="no">
+				<source>Include static (from extensions)</source>
+				<target state="needs-translation">Statisch bijvoegen (van extensies):</target>
+			</trans-unit>
+			<trans-unit id="sys_template.nextLevel" approved="no">
+				<source>Template on Next Level</source>
+				<target state="needs-translation">Sjabloon op het volgende niveau:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.resources" approved="no">
+				<source>Resources</source>
+				<target state="needs-translation">Bronnen:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.root" approved="no">
+				<source>Rootlevel</source>
+				<target state="needs-translation">Rootniveau:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.sitetitle" approved="no">
+				<source>Website Title</source>
+				<target state="needs-translation">Websitetitel:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.static_file_mode" approved="no">
+				<source>Static Template Files from TYPO3 Extensions</source>
+				<target state="needs-translation">Statische sjabloonbestanden van TYPO3 extensies:</target>
+			</trans-unit>
+			<trans-unit id="sys_template.static_file_mode.0" approved="yes">
+				<source>Default (include before if root flag is set)</source>
+				<target state="translated">Standaard (Voeg voor in als root flag ingesteld staat</target>
+			</trans-unit>
+			<trans-unit id="sys_template.static_file_mode.1" approved="yes">
+				<source>Always include before this template record</source>
+				<target state="translated">Altijd inclusief voor dit sjabloonrecord</target>
+			</trans-unit>
+			<trans-unit id="sys_template.static_file_mode.2" approved="yes">
+				<source>Never include before this template record</source>
+				<target state="translated">Nooit inclusief voor dit sjabloon record</target>
+			</trans-unit>
+			<trans-unit id="sys_template.static_file_mode.3" approved="yes">
+				<source>Include before all static templates if root flag is set</source>
+				<target state="translated">Includeren voor alle statische sjablonen als de root ingesteld is</target>
+			</trans-unit>
+			<trans-unit id="sys_template.tabs.access" approved="yes">
+				<source>Access</source>
+				<target state="translated">Toegang</target>
+			</trans-unit>
+			<trans-unit id="sys_template.tabs.files" approved="yes">
+				<source>Resources</source>
+				<target state="translated">Bronnen</target>
+			</trans-unit>
+			<trans-unit id="sys_template.tabs.include" approved="yes">
+				<source>Includes</source>
+				<target state="translated">Bevat</target>
+			</trans-unit>
+			<trans-unit id="sys_template.tabs.options" approved="yes">
+				<source>Options</source>
+				<target state="translated">Opties</target>
+			</trans-unit>
+			<trans-unit id="sys_template.title" approved="no">
+				<source>Template Title</source>
+				<target state="needs-translation">Sjabloontitel:</target>
+			</trans-unit>
+			<trans-unit id="tt_content" approved="yes">
+				<source>Page Content</source>
+				<target state="translated">Pagina-inhoud</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

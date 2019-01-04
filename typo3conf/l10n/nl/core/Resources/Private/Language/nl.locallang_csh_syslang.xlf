@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="nl" datatype="plaintext" original="messages" date="2018-11-29T01:13:22Z" product-name="core">
+		<header/>
+		<body>
+			<trans-unit id=".description" approved="yes">
+				<source>Defines which languages are alternatively available on each webpage.</source>
+				<target state="translated">Definieert welke talen als alternatief beschibaar zijn op de webpagina.</target>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve" approved="no">
+				<source>The Web&gt;Page module has a feature which allows users to edit page content divided into not only columns but also languages. The languages available for translation are determined by the number of Website Language record created.</source>
+			<target state="needs-translation">De Web&gt;Pagina module heeft een feature die het gebruikers mogelijk maakt pagina inhoud niet alleen te bewerken in verschillende kolommen, maar ook in verschillende talen. De talen die voor vertaling beschikbaar zijn worden bepaald door het aantal Website Language records dat is aangemaakt. Om een webpagina in een andere taal beschikbaar te maken, moet een "'Alternatvie Page Language" record worden aangemaakt op die pagina.</target></trans-unit>
+			<trans-unit id="hidden.description" approved="yes">
+				<source>This option will hide the system language from being available in the backend.</source>
+				<target state="translated">Deze optie verbergt de systeem taal, zodat deze niet beschibaar is in de backend.</target>
+			</trans-unit>
+			<trans-unit id="title.description" approved="yes">
+				<source>Enter the name of this additional system language.</source>
+				<target state="translated">Voer de naam in van deze additionele systeem taal.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

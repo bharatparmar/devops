@@ -1,0 +1,13 @@
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:site_config_grid/Configuration/TypoScript/">
+
+plugin.tx_site_config_grid {
+	view {
+		templateRootPaths.0 = EXT:site_config_grid/Resources/Private/Templates/Pages/
+		partialRootPaths.0 = EXT:site_config_grid/Resources/Private/Partials/
+		layoutRootPaths.0 = EXT:site_config_grid/Resources/Private/Layouts/
+	}
+    _LOCAL_LANG {
+		default.back = zurück
+    }
+		
+}
